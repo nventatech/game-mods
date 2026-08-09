@@ -8,12 +8,13 @@ Nail and spell damage up to one-hit kill, immortality, infinite jumps, geo multi
 
 ## ✨ Features
 - Nail & spells up to one-hit kill
-- Immortality, infinite jumps & soul
-- Geo multipliers, keep geo on death
+- Quick slash, long nail range, fast dream nail
+- Immortality, infinite jumps & soul, unbreakable charms
+- Geo multipliers, keep geo on death, free shopping, give geo
 - Every option independent - toggle F6
 
 ## 📸 Screenshots
-![1.2.0](screenshots/1.2.0.png)
+![1.3.0](screenshots/1.3.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
