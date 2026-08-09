@@ -8,12 +8,13 @@ Needle and skill damage up to one-hit kill, immortality, infinite jumps and silk
 
 ## ✨ Features
 - Needle & skills up to one-hit kill
+- Fast attacks, infinite tool uses
 - Immortality, infinite jumps & silk
-- Rosary multiplier, extra tool slots
+- Free shopping, give rosaries/shards, extra tool slots
 - Every option independent - toggle F6
 
 ## 📸 Screenshots
-![screenshot](screenshots/1.0.0.png)
+![screenshot](screenshots/1.1.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
