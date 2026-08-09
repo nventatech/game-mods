@@ -7,10 +7,10 @@
 Hytale server plugin. Infinite health, stamina, oxygen, mana and signature energy with an in-game settings screen.
 
 ## ✨ Features
-- `/godmode` opens a screen with separate toggles for health, stamina, oxygen, mana and signature energy
-- `/godmode health|stamina|oxygen|mana|energy` quick-toggle without the screen
+- `/godmode` opens a screen with separate toggles for health, stamina, oxygen, mana, signature energy, creative flight and double speed
+- `/godmode health|stamina|oxygen|mana|energy|fly|speed` quick-toggle without the screen; `/godmode all` flips everything
 - Applies instantly, saves with your character
-- No config files, no dependencies, nothing runs per tick
+- No config files, no dependencies
 
 ## 🌍 Translating
 Texts live in `resources/Server/Languages/<locale>/server.lang`. To add a language, copy the
