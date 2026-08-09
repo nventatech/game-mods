@@ -7,9 +7,13 @@
 God mode, health/attack/gold multipliers, infinite dash and unlimited jades. Everything toggleable in the Configuration Manager, no restart.
 
 ## ✨ Features
-- God mode, health / attack / gold multipliers
-- Infinite dash, unlimited jades
+- God mode, one-hit kill, health / attack / gold multipliers
+- Infinite qi, arrows & potions; infinite dash, unlimited jades
+- Free shopping, give gold, damage numbers, skip hacking minigame
 - Toggle in Configuration Manager
+
+## 📸 Screenshots
+![1.4.0](screenshots/1.4.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
