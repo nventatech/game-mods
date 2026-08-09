@@ -10,6 +10,8 @@ Toggle God Mode, Infinite Ammo, Double Damage, Double Health and Homing Bullets 
 - F1 God Mode, F2 Infinite Ammo (both off by default)
 - F3 Double Damage, F4 Double Health (both on by default)
 - F5 Homing Bullets (off by default): locks every shot onto the enemy closest to your crosshair, respects line of sight, removes weapon spread while active
+- F6 One-Hit Kill, F7 Free Shopping & upgrades (both off by default)
+- F8 Give Cash (+5000 per press)
 - Each cheat is independent; turning one off restores the original values
 - No game files modified — safe to add or remove at any time
 
