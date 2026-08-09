@@ -11,6 +11,8 @@ Bigger cleaning area, sprays and liquids never run out, infinite power washer wa
 - Sprays & liquids never run out
 - Infinite washer water - backpack too
 - Infinite trash bag capacity
+- Movement speed multiplier
+- Unlimited perk points
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
