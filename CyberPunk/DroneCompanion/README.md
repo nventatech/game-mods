@@ -1,6 +1,6 @@
 # Drone Companion
 
-[![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods)
+[![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/32572)
 
 ![cover](screenshots/cover.png)
 
@@ -18,9 +18,10 @@ Summon combat drones that follow you around Night City and fight at your side. E
 ![screenshot](screenshots/mod-menu.jpg)
 
 ## 📦 Install
-Download on Nexus Mods. Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks and Codeware.
+Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks and Codeware.
 
 ## 🔗 Links
+- Mod page: https://www.nexusmods.com/cyberpunk2077/mods/32572
 - All my mods: https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods
 - Source & releases: https://github.com/nventatech/game-mods
 
