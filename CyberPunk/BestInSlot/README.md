@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/31702)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Gold TOP tag on the best item of every category across all item screens. B equips the best loadout; N sells non-TOP weapons and clothes.
 
@@ -15,10 +15,10 @@ Gold TOP tag on the best item of every category across all item screens. B equip
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/backpack-weapons.jpg)
-![screenshot](screenshots/backpack-clothes.jpg)
-![screenshot](screenshots/inventory-equip-best.jpg)
-![screenshot](screenshots/mod-settings.jpg)
+![screenshot](screenshots/02-backpack-weapons.jpg)
+![screenshot](screenshots/03-backpack-clothes.jpg)
+![screenshot](screenshots/01-inventory-equip-best.jpg)
+![screenshot](screenshots/04-mod-settings.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the

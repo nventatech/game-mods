@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Hollow%20Knight-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/hollowknight/mods/193)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Nail and spell damage up to one-hit kill, immortality, infinite jumps, geo multipliers and more. Every option independent, toggle with F6.
 
@@ -14,7 +14,7 @@ Nail and spell damage up to one-hit kill, immortality, infinite jumps, geo multi
 - Every option independent - toggle F6
 
 ## 📸 Screenshots
-![1.3.0](screenshots/1.3.0.png)
+![1.3.0](screenshots/01-v1.3.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

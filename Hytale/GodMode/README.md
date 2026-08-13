@@ -2,7 +2,7 @@
 
 [![CurseForge](https://img.shields.io/badge/Hytale-CurseForge-F16436?logo=curseforge&color=F16436&label=CurseForge)](https://www.curseforge.com/hytale/mods/god-mode-menu)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Hytale server plugin. Infinite health, stamina, oxygen, mana and signature energy with an in-game settings screen.
 

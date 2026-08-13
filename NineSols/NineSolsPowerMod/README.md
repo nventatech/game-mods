@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Nine%20Sols-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/ninesols/mods/16)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 God mode, health/attack/gold multipliers, infinite dash and unlimited jades. Everything toggleable in the Configuration Manager, no restart.
 
@@ -13,7 +13,7 @@ God mode, health/attack/gold multipliers, infinite dash and unlimited jades. Eve
 - Toggle in Configuration Manager
 
 ## 📸 Screenshots
-![1.4.0](screenshots/1.4.0.png)
+![1.4.0](screenshots/01-v1.4.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

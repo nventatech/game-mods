@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cuphead-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cuphead/mods/122)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Removes the black side bars and renders the game at your monitor's aspect ratio, up to 21:9. No stretching.
 

@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/32572)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Summon combat drones that follow you around Night City and fight at your side. Beta.
 
@@ -17,8 +17,8 @@ Summon combat drones that follow you around Night City and fight at your side. B
 - English and Portuguese, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/arasaka-mrs071-flying.jpg)
-![screenshot](screenshots/mod-menu.jpg)
+![screenshot](screenshots/03-arasaka-flying.jpg)
+![screenshot](screenshots/02-manager-menu.jpg)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript and Codeware.

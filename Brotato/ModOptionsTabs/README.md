@@ -2,7 +2,7 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Brotato-Steam%20Workshop-1b2838?logo=steam&color=1b2838&label=Steam%20Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=3769887447)
 
-![cover](screenshots/preview.png)
+![cover](screenshots/00-hero.png)
 
 Sidebar for the ModOptions menu: a list of mods on the left — click one, see only its settings. No more one giant stacked list.
 
@@ -14,7 +14,7 @@ Sidebar for the ModOptions menu: a list of mods on the left — click one, see o
 - Fixes 16:9 cutoff; with fewer than 2 configurable mods the menu stays as it was
 
 ## 📸 Screenshots
-![screenshot](screenshots/print.png)
+![screenshot](screenshots/01-print.png)
 
 ## 📦 Install
 Subscribe on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3769887447) — Brotato installs it automatically. Requires Brotato 1.1+ and ModOptions (dami-ModOptions). Manual install: put the zip in the game's mods folder.

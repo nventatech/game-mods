@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Stray-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/stray/mods/390)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 The Defluxor never overheats — keep it on as long as you want. Vanilla on/off button, keyboard and controller, no game files modified.
 

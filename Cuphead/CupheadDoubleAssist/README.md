@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cuphead-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cuphead/mods/115)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Multiplies your damage and health (2x-10x), with optional infinite health and damage. Toggle in-game with hotkeys or controller.
 

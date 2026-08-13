@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Crime%20Scene%20Cleaner-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/crimescenecleaner/mods/10)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Bigger cleaning area, sprays and liquids never run out, infinite power washer water and infinite trash bag capacity.
 

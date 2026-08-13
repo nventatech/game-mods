@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cuphead-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cuphead/mods/173)
 
-![cover](screenshots/39589027.png)
+![cover](screenshots/00-hero.png)
 
 BepInEx 5.4.23.5 mod loader, ready for Cuphead. Required by Cuphead Double Assist, Cuphead UltraWide and other BepInEx mods.
 

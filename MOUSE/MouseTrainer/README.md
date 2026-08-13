@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/MOUSE-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/mousepiforhire/mods/23)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Toggle God Mode, Infinite Ammo, Double Damage, Double Health and Homing Bullets on the fly with F1-F5. No permanent overlay, just a quick on-screen toast per toggle.
 

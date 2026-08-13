@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/31701)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Unequip weapon and clothing mods back to your inventory instead of losing them. Native button and flow.
 
@@ -15,9 +15,9 @@ Unequip weapon and clothing mods back to your inventory instead of losing them. 
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/screenshot-antes-remover.jpg)
-![screenshot](screenshots/screenshot-depois-remover.jpg)
-![screenshot](screenshots/mod-settings.jpg)
+![screenshot](screenshots/01-antes-remover.jpg)
+![screenshot](screenshots/02-depois-remover.jpg)
+![screenshot](screenshots/03-mod-settings.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the

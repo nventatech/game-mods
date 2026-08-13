@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Nine%20Sols-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/ninesols/mods/17)
 
-![cover](screenshots/39589027.png)
+![cover](screenshots/00-hero.png)
 
 BepInEx 5 mod loader plus Configuration Manager, ready for Nine Sols. Ships the config fix the game needs (`HideManagerGameObject = true`).
 

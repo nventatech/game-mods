@@ -16,11 +16,11 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## 📸 Screenshots
 ![screenshot](screenshots/01-search.png)
-![screenshot](screenshots/07-all-weapons.png)
-![screenshot](screenshots/10-all-cyberware.png)
-![screenshot](screenshots/12-teleport.png)
-![screenshot](screenshots/15-unlocks.png)
-![screenshot](screenshots/16-quests.png)
+![screenshot](screenshots/09-all-weapons.png)
+![screenshot](screenshots/12-all-cyberware.png)
+![screenshot](screenshots/14-teleport.png)
+![screenshot](screenshots/18-unlocks.png)
+![screenshot](screenshots/19-quests.png)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.

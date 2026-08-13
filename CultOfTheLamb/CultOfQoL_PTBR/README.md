@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cult%20of%20the%20Lamb-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cultofthelamb/mods/84)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Translates every Cult of QoL Collection option shown in the Configuration Manager window to Brazilian Portuguese (traduz para PT-BR as opções do Cult of QoL Collection no Configuration Manager). Standalone addon - does not modify the original mod.
 

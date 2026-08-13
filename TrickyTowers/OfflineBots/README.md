@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Tricky%20Towers-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/trickytowers/mods/7)
 
-![cover](cover.png)
+![cover](screenshots/00-hero.png)
 
 Adds AI opponents to local multiplayer, so you can play Race, Survival and Puzzle offline — solo or with friends. Requested by the community since 2017, never implemented.
 

@@ -2,7 +2,7 @@
 
 [![CurseForge](https://img.shields.io/badge/Hytale-CurseForge-F16436?logo=curseforge&color=F16436&label=CurseForge)](https://www.curseforge.com/hytale/mods/void-chest)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Hytale server plugin. Craftable chest that links to a channel: every chest on the same
 channel shares its contents, anywhere in the world.
@@ -15,11 +15,11 @@ channel shares its contents, anywhere in the world.
 - Recipe: 6 Deadwood Planks + 4 Iron Bar + 2 Void Essence, Furniture bench (memories level 3)
 
 ## 📸 Screenshots
-![chests placed](screenshots/chests-placed.png)
-![chests in world](screenshots/chests-in-world.png)
-![chests closeup](screenshots/chests-closeup.png)
-![channel menu](screenshots/channel-menu.png)
-![channel menu localized](screenshots/channel-menu-localized.png)
+![chests placed](screenshots/02-chests-placed.png)
+![chests in world](screenshots/01-chests-in-world.png)
+![chests closeup](screenshots/03-chests-closeup.png)
+![channel menu](screenshots/04-channel-menu.png)
+![channel menu localized](screenshots/05-channel-menu-localized.png)
 
 ## 🌍 Translating
 Texts live in `resources/Server/Languages/<locale>/server.lang`. To add a language, copy the

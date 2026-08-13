@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Hollow%20Knight%20Silksong-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/hollowknightsilksong/mods/1215)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Needle and skill damage up to one-hit kill, immortality, infinite jumps and silk, rosary multipliers and extra tool slots. Toggle with F6.
 
@@ -14,7 +14,7 @@ Needle and skill damage up to one-hit kill, immortality, infinite jumps and silk
 - Every option independent - toggle F6
 
 ## 📸 Screenshots
-![screenshot](screenshots/1.1.0.png)
+![screenshot](screenshots/01-v1.1.0.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

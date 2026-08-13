@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/31610)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Text search, category tabs and sorting inside the native vehicle call menu (hold V). No extra windows.
 
@@ -19,13 +19,13 @@ Text search, category tabs and sorting inside the native vehicle call menu (hold
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/all.jpg)
-![screenshot](screenshots/favorites.jpg)
-![screenshot](screenshots/recent.jpg)
-![screenshot](screenshots/cars.jpg)
-![screenshot](screenshots/motorcycles.jpg)
-![screenshot](screenshots/armed.jpg)
-![screenshot](screenshots/hidden.jpg)
+![screenshot](screenshots/01-all.jpg)
+![screenshot](screenshots/04-favorites.jpg)
+![screenshot](screenshots/05-recent.jpg)
+![screenshot](screenshots/02-cars.jpg)
+![screenshot](screenshots/03-motorcycles.jpg)
+![screenshot](screenshots/07-armed.jpg)
+![screenshot](screenshots/06-hidden.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the

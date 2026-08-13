@@ -2,7 +2,7 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Brotato-Steam%20Workshop-1b2838?logo=steam&color=1b2838&label=Steam%20Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=3771061737)
 
-![cover](screenshots/preview.png)
+![cover](screenshots/00-hero.png)
 
 Mark items in the shop and they get a colored border every time they show up — never skip past the item you're hunting while rerolling.
 
@@ -13,7 +13,7 @@ Mark items in the shop and they get a colored border every time they show up —
 - Works in solo and co-op; lock, ban and steal still work as usual on marked items
 
 ## 📸 Screenshots
-![screenshot](screenshots/print.png)
+![screenshot](screenshots/01-print.png)
 
 ## 📦 Install
 Subscribe on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3771061737) — Brotato installs it automatically. Requires Brotato 1.1+ (built-in mod support). Manual install: put the zip in the game's mods folder.

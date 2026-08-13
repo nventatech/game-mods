@@ -2,7 +2,7 @@
 
 [![Nexus Mods](https://img.shields.io/badge/Cyberpunk%202077-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/cyberpunk2077/mods/31784)
 
-![cover](screenshots/cover.png)
+![cover](screenshots/00-hero.png)
 
 Press F2 for a native-UI quest guide: main story, Phantom Liberty, ending-affecting side jobs, gigs by fixer, cyberpsychos and NCPD, with live states, search and one-click tracking.
 
@@ -14,8 +14,8 @@ Press F2 for a native-UI quest guide: main story, Phantom Liberty, ending-affect
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/questguide-panel-1.jpg)
-![screenshot](screenshots/questguide-panel-2.jpg)
+![screenshot](screenshots/01-panel-1.jpg)
+![screenshot](screenshots/02-panel-2.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the

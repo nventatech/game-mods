@@ -2,7 +2,7 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Brotato-Steam%20Workshop-1b2838?logo=steam&color=1b2838&label=Steam%20Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=3769878400)
 
-![cover](screenshots/preview.png)
+![cover](screenshots/00-hero.png)
 
 Makes enemies STRONGER instead of MORE: buffs each enemy's stats instead of spawning extra enemies. Flat or per-wave scaling, configurable in-game.
 
@@ -13,8 +13,8 @@ Makes enemies STRONGER instead of MORE: buffs each enemy's stats instead of spaw
 - Does not change spawn counts; settings saved and changeable mid-run (applies next wave)
 
 ## 📸 Screenshots
-![flat mode](screenshots/flat.png)
-![per-wave mode](screenshots/perwave.png)
+![flat mode](screenshots/01-flat.png)
+![per-wave mode](screenshots/02-perwave.png)
 
 ## 📦 Install
 Subscribe on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3769878400) — Brotato installs it automatically. Requires Brotato 1.1+ and ModOptions (dami-ModOptions) for the sliders. Manual install: put the zip in the game's mods folder.
