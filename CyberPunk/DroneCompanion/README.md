@@ -4,21 +4,24 @@
 
 ![cover](screenshots/cover.png)
 
-Summon combat drones that follow you around Night City and fight at your side. Early beta.
+Summon combat drones that follow you around Night City and fight at your side. Beta.
 
 ## ✨ Features
-- Six models: Militech Security Drone, Arasaka Octant, Kang Tao Drone, FSS Griffin, Arasaka MRS-071 and the Barghest Minotaur mech
-- Drones share your side and engage whoever attacks you
-- Follow with teleport catch-up - never left behind
+- Eight models: Militech and Arasaka Octants, Wyvern, Griffin, Bombus, and three Minotaur mechs (Militech, NCPD, Arasaka)
+- Native companion AI: real follow, teleport catch-up, rejoin after combat
+- No friendly fire; enemies target drones, police never turn them hostile
+- Out-of-combat self-repair with HP readout in the manager window
+- Per-drone mute for hover, beeps and engine sounds
+- Drones persist through saves, fast travel, vehicles and cutscenes
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
-- Overlay manager window: multiple drones, individual dismiss, teleport-to-me
+- English and Portuguese, following the game language
 
 ## 📸 Screenshots
 ![screenshot](screenshots/arasaka-mrs071-flying.jpg)
 ![screenshot](screenshots/mod-menu.jpg)
 
 ## 📦 Install
-Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks and Codeware.
+Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript and Codeware.
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/32572
