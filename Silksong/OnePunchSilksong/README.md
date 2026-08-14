@@ -4,17 +4,20 @@
 
 ![cover](screenshots/00-hero.png)
 
-Needle and skill damage up to one-hit kill, immortality, infinite jumps and silk, rosary multipliers and extra tool slots. Toggle with F6.
+In-game cheat menu for Hollow Knight: Silksong. Press F9, toggle what you want, no other plugin needed.
 
 ## ✨ Features
-- Needle & skills up to one-hit kill
-- Fast attacks, infinite tool uses
-- Immortality, infinite jumps & silk
-- Free shopping, give rosaries/shards, extra tool slots
-- Every option independent - toggle F6
+- In-game menu on F9, everything live
+- Needle & silk skills up to one-hit kill
+- Fast attacks, infinite tool uses, extra tool slots
+- Immortality, infinite jumps, dash & silk
+- Move speed and game speed sliders
+- Free shopping, give rosaries/shards, rosary multipliers
+- Full heal, refill silk, kill all enemies
+- Unlock all abilities, fast travel & full map
 
 ## 📸 Screenshots
-![screenshot](screenshots/01-v1.1.0.png)
+![menu](screenshots/01-menu.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
