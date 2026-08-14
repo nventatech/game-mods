@@ -4,16 +4,18 @@
 
 ![cover](screenshots/00-hero.png)
 
-God mode, health/attack/gold multipliers, infinite dash and unlimited jades. Everything toggleable in the Configuration Manager, no restart.
+In-game cheat menu for Nine Sols. Press F9, toggle what you want, no restart and no other plugin needed.
 
 ## ✨ Features
+- In-game menu on F9, everything live
 - God mode, one-hit kill, health / attack / gold multipliers
-- Infinite qi, arrows & potions; infinite dash, unlimited jades
+- Infinite qi, arrows & potions; infinite dash, infinite air jump, unlimited jades
+- Move speed and game speed sliders
 - Free shopping, give gold, damage numbers, skip hacking minigame
-- Toggle in Configuration Manager
+- Full heal, kill all enemies, unlock all abilities
 
 ## 📸 Screenshots
-![1.4.0](screenshots/01-v1.4.0.png)
+![menu](screenshots/01-menu.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
