@@ -4,17 +4,19 @@
 
 ![cover](screenshots/00-hero.png)
 
-Nail and spell damage up to one-hit kill, immortality, infinite jumps, geo multipliers and more. Every option independent, toggle with F6.
+In-game cheat menu for Hollow Knight. Press F9, toggle what you want, no other plugin needed.
 
 ## ✨ Features
+- In-game menu on F9, everything live
 - Nail & spells up to one-hit kill
 - Quick slash, long nail range, fast dream nail
-- Immortality, infinite jumps & soul, unbreakable charms
+- Immortality, infinite jumps & soul, unbreakable charms, no dash cooldown
+- Move speed and game speed sliders
 - Geo multipliers, keep geo on death, free shopping, give geo
-- Every option independent - toggle F6
+- Full heal, kill all enemies, give all charms & abilities, reveal full map
 
 ## 📸 Screenshots
-![1.3.0](screenshots/01-v1.3.0.png)
+![menu](screenshots/01-menu.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
