@@ -7,8 +7,10 @@
 Summon combat drones that follow you around Night City and fight at your side. Beta.
 
 ## ✨ Features
-- Eight models: Militech and Arasaka Octants, Wyvern, Griffin, Bombus, and three Minotaur mechs (Militech, NCPD, Arasaka)
+- 32 units: seven chassis (Octant, Wyvern, Griffin, Bombus, Minotaur, Android, Cerberus) in their factions' colours
 - Native companion AI: real follow, teleport catch-up, rejoin after combat
+- Spotlight mode: the Minotaur and the Wyvern light the way; pair with passive mode for an escort
+- Optional in-world acquisition: buy each chassis as a control shard from any gunsmith
 - No friendly fire; enemies target drones, police never turn them hostile
 - Out-of-combat self-repair with HP readout in the manager window
 - Per-drone mute for hover, beeps and engine sounds
@@ -21,7 +23,7 @@ Summon combat drones that follow you around Night City and fight at your side. B
 ![screenshot](screenshots/02-manager-menu.jpg)
 
 ## 📦 Install
-Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript and Codeware.
+Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript, Codeware and TweakXL.
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/32572
