@@ -61,6 +61,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 ### Cult of the Lamb
 | Mod | Framework | Download |
 |-----|-----------|----------|
+| [CultOfTheLambPowerMod](CultOfTheLamb/CultOfTheLambPowerMod) | BepInEx 5 | [114](https://www.nexusmods.com/games/cultofthelamb/mods/114) |
 | [CultOfQoL_PTBR](CultOfTheLamb/CultOfQoL_PTBR) | BepInEx 5 | [84](https://www.nexusmods.com/cultofthelamb/mods/84) |
 
 ### Crime Scene Cleaner
