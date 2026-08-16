@@ -9,6 +9,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 ## ✨ Features
 - Any item, any rarity - 18 tabs
 - Loot filter: block junk by category and tier
+- Auto-loot: empty bodies and containers from a distance, markers included
 - God mode, XP/damage multipliers, unlocks
 - Teleport, fast travel, saved locations
 - Live quest journal with one-click track
