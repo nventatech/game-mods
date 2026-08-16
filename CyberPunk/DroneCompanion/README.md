@@ -4,7 +4,7 @@
 
 ![cover](screenshots/00-hero.png)
 
-Summon combat drones that follow you around Night City and fight at your side. Beta.
+Summon combat drones that follow you around Night City and fight at your side.
 
 ## ✨ Features
 - 32 units: seven chassis (Octant, Wyvern, Griffin, Bombus, Minotaur, Android, Cerberus) in their factions' colours
