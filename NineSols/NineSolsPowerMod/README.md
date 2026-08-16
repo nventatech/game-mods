@@ -9,13 +9,17 @@ In-game cheat menu for Nine Sols. Press F9, toggle what you want, no restart and
 ## ✨ Features
 - In-game menu on F9, everything live
 - God mode, one-hit kill, health / attack / gold multipliers
-- Infinite qi, arrows & potions; infinite dash, infinite air jump, unlimited jades
+- Infinite qi & arrows and infinite potions (separate); infinite dash, air jump, unlimited jades
 - Move speed and game speed sliders
 - Free shopping, give gold, damage numbers, skip hacking minigame
-- Full heal, kill all enemies, unlock all abilities
+- Full heal, kill all enemies, add or remove gold
+- Abilities tab: every ability, jade and upgrade on its own switch, filtered by category
 
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)
+![abilities](screenshots/02-abilities.png)
+![categories](screenshots/03-categories.png)
+![weapons](screenshots/04-weapons.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

@@ -9,7 +9,13 @@ Multiplies your damage and health (2x-10x), with optional infinite health and da
 ## ✨ Features
 - Damage & health 2x-10x
 - Optional infinite health / damage
+- Infinite super, jump and coins
+- Items tab: every weapon, super and charm on its own switch, unlock and lock back
 - Hotkeys or controller, live config reload
+
+## 📸 Screenshots
+![menu](screenshots/01-menu.png)
+![items](screenshots/02-items.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

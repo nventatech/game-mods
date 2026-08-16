@@ -14,10 +14,13 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9, toggle what you want, 
 - Move speed and game speed sliders
 - Free shopping, give rosaries/shards, rosary multipliers
 - Full heal, refill silk, kill all enemies
-- Unlock all abilities, fast travel & full map
+- Tabs for abilities, fast travel and map, every entry with its own switch
 
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)
+![abilities](screenshots/02-abilities.png)
+![fast travel](screenshots/03-fasttravel.png)
+![map](screenshots/04-map.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

@@ -13,10 +13,14 @@ In-game cheat menu for Hollow Knight. Press F9, toggle what you want, no other p
 - Immortality, infinite jumps & soul, unbreakable charms, no dash cooldown
 - Move speed and game speed sliders
 - Geo multipliers, keep geo on death, free shopping, give geo
-- Full heal, kill all enemies, give all charms & abilities, reveal full map
+- Full heal, kill all enemies
+- Tabs for charms, abilities and map, every entry with its own switch
 
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)
+![charms](screenshots/02-charms.png)
+![abilities](screenshots/03-abilities.png)
+![map](screenshots/04-map.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
