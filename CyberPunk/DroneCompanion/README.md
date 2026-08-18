@@ -19,7 +19,7 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Per-drone mute for hover, beeps and engine sounds
 - Drones persist through saves, fast travel, vehicles and cutscenes
 - In-game menu in the game's own UI, fully controller-friendly: summon, squad
-  management, upgrades, commands and tuning (hotkey or LB+Reload)
+  management, upgrades, commands and tuning (hotkey or LB+X)
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
 - English and Portuguese, following the game language
 
