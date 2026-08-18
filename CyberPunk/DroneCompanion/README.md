@@ -18,12 +18,14 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Out-of-combat self-repair with HP readout in the manager window
 - Per-drone mute for hover, beeps and engine sounds
 - Drones persist through saves, fast travel, vehicles and cutscenes
+- In-game menu in the game's own UI, fully controller-friendly: summon, squad
+  management, upgrades, commands and tuning (hotkey or LB+Reload)
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
 - English and Portuguese, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/01-quickhack-commands.jpg)
-![screenshot](screenshots/03-commands-tab.jpg)
+![screenshot](screenshots/02-menu-drones.jpg)
+![screenshot](screenshots/03-menu-squad.jpg)
 ![screenshot](screenshots/08-arasaka-flying.jpg)
 
 ## 📦 Install
