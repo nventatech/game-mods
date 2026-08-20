@@ -10,6 +10,10 @@ Summon combat drones that follow you around Night City and fight at your side.
 - 34 units: nine chassis (Octant, Wyvern, Griffin, Bombus, Minotaur, Android, Cerberus, Flathead, Chimera) in their factions' colours
 - Native companion AI: real follow, teleport catch-up, rejoin after combat
 - Command each drone from the quickhack menu: repair, hold, dismiss, self-destruct, overclock, fortify and its chassis ability
+- Squad HUD by the health bar: chassis icon, name, HP, stance and cooldown per drone
+- Name your drones and track each one's kills, saved per playthrough
+- Squad presets: save three compositions and summon the crew in one click
+- Vehicles: the android rides along and shoots from the window, flyers escort the car, heavy units wait and return
 - A passive per chassis: self-repair, blinding fire, reactive plating, repair aura, taunt and a damage ramp in long fights
 - Optional explosive rounds for Octant, Griffin, Wyvern and Minotaur
 - Spotlight mode: the Minotaur and the Wyvern light the way; pair with passive mode for an escort
