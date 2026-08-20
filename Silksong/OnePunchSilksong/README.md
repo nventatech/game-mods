@@ -9,7 +9,7 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9, toggle what you want, 
 ## ✨ Features
 - In-game menu on F9, everything live
 - Needle & silk skills up to one-hit kill
-- Fast attacks, infinite tool uses, extra tool slots
+- Fast attacks, no skill delay, infinite tool uses, extra tool slots
 - Immortality, infinite jumps, dash & silk
 - Move speed and game speed sliders
 - Free shopping, give rosaries/shards, rosary multipliers
