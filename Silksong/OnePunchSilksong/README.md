@@ -4,10 +4,11 @@
 
 ![cover](screenshots/00-hero.png)
 
-In-game cheat menu for Hollow Knight: Silksong. Press F9, toggle what you want, no other plugin needed.
+In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad), toggle what you want, no other plugin needed.
 
 ## ✨ Features
 - In-game menu on F9, everything live
+- Full gamepad control, no mouse needed (see Controls below)
 - Needle & silk skills up to one-hit kill
 - Fast attacks, no skill delay, infinite tool uses, extra tool slots
 - Immortality, infinite jumps, dash & silk
@@ -15,6 +16,18 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9, toggle what you want, 
 - Free shopping, give rosaries/shards, rosary multipliers
 - Full heal, refill silk, kill all enemies
 - Tabs for abilities, fast travel and map, every entry with its own switch
+
+## 🎮 Controls
+| Input | Action |
+| --- | --- |
+| F9 / L3+R3 | open and close the menu |
+| D-pad or left stick | move between options |
+| A | select |
+| B | close |
+| LB / RB | change tab |
+| Left / right | adjust sliders and cycle modes |
+
+Every key and the gamepad combo can be rebound in the menu itself ("Edit keys" in the General tab).
 
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)
