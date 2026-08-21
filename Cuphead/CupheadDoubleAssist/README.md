@@ -4,14 +4,27 @@
 
 ![cover](screenshots/00-hero.png)
 
-Multiplies your damage and health (2x-10x), with optional infinite health and damage. Toggle in-game with hotkeys or controller.
+Multiplies your damage and health (2x-10x), with optional infinite health and damage. In-game menu on F7 or L3+R3 on a gamepad.
 
 ## ✨ Features
+- Full gamepad control, no mouse needed (see Controls below)
 - Damage & health 2x-10x
 - Optional infinite health / damage
 - Infinite super, jump and coins
-- Items tab: every weapon, super and charm on its own switch, unlock and lock back
+- Items tab: every weapon, super and charm by its shop name, unlock and lock back
 - Hotkeys or controller, live config reload
+
+## 🎮 Controls
+| Input | Action |
+| --- | --- |
+| F7 / L3+R3 | open and close the menu |
+| Stick or d-pad | move between options |
+| A | select |
+| B | close |
+| Left / right | adjust the multipliers |
+| LB / RB | change tab |
+
+Your character stays put while the menu is open.
 
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)

@@ -7,15 +7,18 @@
 All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, teleport, fast travel, vehicles, quest journal and more.
 
 ## ✨ Features
-- Any item, any rarity - 18 tabs
+- Native menu with full controller support (LB+Y), same tabs as the CET panel
+- Any item, any rarity - 19 tabs
 - Loot filter: block junk by category and tier
 - Auto-loot: empty bodies and containers from a distance, markers included
 - God mode, XP/damage multipliers, unlocks
 - Teleport, fast travel, saved locations
 - Live quest journal with one-click track
+- Items from other mods are protected from cleanup and loot filter
 - English & PT-BR
 
 ## 📸 Screenshots
+![native menu](screenshots/20-native-menu.png)
 ![screenshot](screenshots/01-search.png)
 ![screenshot](screenshots/09-all-weapons.png)
 ![screenshot](screenshots/12-all-cyberware.png)
@@ -25,6 +28,8 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
+
+Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511).
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/31460

@@ -4,10 +4,11 @@
 
 ![cover](screenshots/00-hero.png)
 
-In-game cheat menu for Cult of the Lamb. Press F9, toggle what you want, no restart and no other plugin needed.
+In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggle what you want, no restart and no other plugin needed.
 
 ## ✨ Features
 - In-game menu on F9, everything live
+- Full gamepad control, no mouse needed (see Controls below)
 - God mode, one-hit kill, damage multiplier, no clip, game speed, hide HUD
 - Every item in the game with +/-, remove and infinite - DLC items included (Woolhaven section, everything else under Other)
 - Follower cheats: traits, rename, spawn, loyalty, heal, rejuvenate, cure dissent, free prisoners
@@ -16,6 +17,17 @@ In-game cheat menu for Cult of the Lamb. Press F9, toggle what you want, no rest
 - 700+ unlocks by category (buildings, upgrades, rituals, tarot, relics, weapons, recipes, fleeces) with search, unlock all and re-lock
 - Full dev console: 90+ of the game's own cheats as buttons, by category
 - English and Brazilian Portuguese, following the game language
+
+## 🎮 Controls
+| Input | Action |
+| --- | --- |
+| F9 / L3+R3 | open and close the menu |
+| Stick, d-pad or arrows | move between rows |
+| A | act on the highlighted row |
+| B | close |
+| Left / right | change the value (resources, sliders, cycles) |
+| LB / RB | change tab |
+| Triggers | change section inside a tab |
 
 ## 📸 Screenshots
 ![player](screenshots/01-player-tab.png)

@@ -4,9 +4,11 @@
 
 ![cover](screenshots/00-hero.png)
 
-Toggle God Mode, Infinite Ammo, Double Damage, Double Health and Homing Bullets on the fly with F1-F5. No permanent overlay, just a quick on-screen toast per toggle.
+In-game cheat menu for MOUSE: P.I. For Hire. Press F9 (or L3+R3 on a gamepad) for the menu, or use the F1-F8 hotkeys with an on-screen toast per toggle.
 
 ## ✨ Features
+- In-game menu on F9, styled to match the game
+- Full gamepad control, no mouse needed (see Controls below)
 - F1 God Mode, F2 Infinite Ammo (both off by default)
 - F3 Double Damage, F4 Double Health (both on by default)
 - F5 Homing Bullets (off by default): locks every shot onto the enemy closest to your crosshair, respects line of sight, removes weapon spread while active
@@ -14,6 +16,18 @@ Toggle God Mode, Infinite Ammo, Double Damage, Double Health and Homing Bullets 
 - F8 Give Cash (+5000 per press)
 - Each cheat is independent; turning one off restores the original values
 - No game files modified — safe to add or remove at any time
+
+## 🎮 Controls
+| Input | Action |
+| --- | --- |
+| F9 / L3+R3 | open and close the menu |
+| Stick or d-pad | move between options |
+| A | select |
+| B | close |
+| Left / right | set the multipliers |
+
+## 📸 Screenshots
+![menu](screenshots/01-menu.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a language, copy the dictionary, translate the values and return it from `PickTable`.
