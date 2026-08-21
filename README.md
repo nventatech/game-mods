@@ -77,7 +77,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 ### Stray
 | Mod | Framework | Download |
 |-----|-----------|----------|
-| [DefluxorNoOverheat](Stray/DefluxorNoOverheat) | BepInEx 5 | [390](https://www.nexusmods.com/stray/mods/390) |
+| [DefluxorNoOverheat](Stray/DefluxorNoOverheat) | UE4SS 2.5.2 | [390](https://www.nexusmods.com/stray/mods/390) |
 
 ### Tricky Towers
 | Mod | Framework | Download |

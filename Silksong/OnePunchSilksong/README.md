@@ -32,8 +32,9 @@ Every key and the gamepad combo can be rebound in the menu itself ("Edit keys" i
 ## 📸 Screenshots
 ![menu](screenshots/01-menu.png)
 ![abilities](screenshots/02-abilities.png)
-![fast travel](screenshots/03-fasttravel.png)
-![map](screenshots/04-map.png)
+![tools](screenshots/03-tools.png)
+![fast travel](screenshots/04-fasttravel.png)
+![map](screenshots/05-map.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a

@@ -39,7 +39,7 @@ Texts live in `I18n.cs`, one dictionary per language keyed by the English string
 language, copy the dictionary, translate the values and return it from `PickTable`.
 
 ## 📦 Install
-Extract into the game folder - the DLL lands in `BepInEx/plugins/`. Requires BepInEx 5.
+Download on [Nexus Mods](https://www.nexusmods.com/games/cultofthelamb/mods/114). Extract into the game folder - the DLL lands in `BepInEx/plugins/`. Requires BepInEx 5.
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/games/cultofthelamb/mods/114

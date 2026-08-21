@@ -32,7 +32,7 @@ Texts live in `I18n.cs`, one dictionary per language keyed by the English string
 language, copy the dictionary, translate the values and return it from `PickTable`.
 
 ## 📦 Install
-Download on [Nexus Mods](https://www.nexusmods.com/crimescenecleaner/mods/10). Extract into the game folder - the DLL lands in `Mods/`. Requires MelonLoader.
+Download on [Nexus Mods](https://www.nexusmods.com/crimescenecleaner/mods/10). Drop `UltraCleaningTools.dll` into the game's `Mods/` folder (or let Vortex handle it). Requires MelonLoader.
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/crimescenecleaner/mods/10
