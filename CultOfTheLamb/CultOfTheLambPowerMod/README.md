@@ -10,6 +10,7 @@ In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggl
 - In-game menu on F9, everything live
 - Full gamepad control, no mouse needed (see Controls below)
 - God mode, one-hit kill, damage multiplier, no clip, game speed, hide HUD
+- Menu scale slider - readable on 1440p, ultrawide and 4K (default picked from your screen)
 - Every item in the game with +/-, remove and infinite - DLC items included (Woolhaven section, everything else under Other)
 - Follower cheats: traits, rename, spawn, loyalty, heal, rejuvenate, cure dissent, free prisoners
 - World: difficulty sliders (enemy health, luck, hunger, illness and more), no death penalty, pause/skip the day cycle, weather control
@@ -33,6 +34,8 @@ In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggl
 ![player](screenshots/01-player-tab.png)
 ![followers](screenshots/02-followers-tab.png)
 ![unlocks](screenshots/04-unlocks-tab.png)
+![world](screenshots/05-world-tab.png)
+![console](screenshots/07-console-tab.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
