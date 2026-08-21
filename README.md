@@ -15,7 +15,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 | Mod | Framework | Download |
 |-----|-----------|----------|
 | [GiveMeEverything](CyberPunk/GiveMeEverything) | CET (Lua) | [31460](https://www.nexusmods.com/cyberpunk2077/mods/31460) |
-| [DroneCompanion](CyberPunk/DroneCompanion) (beta) | CET (Lua) | [32572](https://www.nexusmods.com/cyberpunk2077/mods/32572) |
+| [DroneCompanion](CyberPunk/DroneCompanion) | CET (Lua) | [32572](https://www.nexusmods.com/cyberpunk2077/mods/32572) |
 | [FindMyRide](CyberPunk/FindMyRide) | redscript | [31610](https://www.nexusmods.com/cyberpunk2077/mods/31610) |
 | [BestInSlot](CyberPunk/BestInSlot) | redscript | [31702](https://www.nexusmods.com/cyberpunk2077/mods/31702) |
 | [UnequipMods](CyberPunk/UnequipMods) | redscript | [31701](https://www.nexusmods.com/cyberpunk2077/mods/31701) |
