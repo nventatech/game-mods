@@ -31,6 +31,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 ### Brotato
 | Mod | Framework | Download |
 |-----|-----------|----------|
+| [GiveMeEverything](Brotato/GiveMeEverything) | GDScript (ModLoader) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3787782867) |
 | [ShopWishlist](Brotato/ShopWishlist) | GDScript (ModLoader) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3771061737) |
 | [ModOptionsTabs](Brotato/ModOptionsTabs) | GDScript (ModLoader) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3769887447) |
 | [EnemiesEvolve](Brotato/EnemiesEvolve) | GDScript (ModLoader) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3769878400) |
