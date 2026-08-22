@@ -12,10 +12,10 @@ In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggl
 - God mode, one-hit kill, damage multiplier, no clip, game speed, hide HUD
 - Menu scale slider - readable on 1440p, ultrawide and 4K (default picked from your screen)
 - Every item in the game with +/-, remove and infinite - DLC items included (Woolhaven section, everything else under Other)
-- Follower cheats: traits, rename, spawn, loyalty, heal, rejuvenate, cure dissent, free prisoners
+- Follower cards with live portrait: traits, rename, spawn, loyalty, heal, rejuvenate, cure dissent, free prisoners
 - World: difficulty sliders (enemy health, luck, hunger, illness and more), no death penalty, pause/skip the day cycle, weather control
-- Run: every tarot card as a toggle (give all / remove all), relic always charged, instant fishing, lucky dice
-- 700+ unlocks by category (buildings, upgrades, rituals, tarot, relics, weapons, recipes, fleeces) with search, unlock all and re-lock
+- Run: every tarot card as a toggle, card set saved and auto-given every run, relic always charged, instant fishing, lucky dice
+- 1300+ unlocks in 19 categories (buildings, upgrades, rituals, doctrines, sermons, structures, tarot, relics, weapons, curses, crown, recipes, fleeces, clothing, follower forms, flockade, lore) with counters, search, unlock all and re-lock - mobile-exclusive outfits and decorations included
 - Full dev console: 90+ of the game's own cheats as buttons, by category
 - English and Brazilian Portuguese, following the game language
 
