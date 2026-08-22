@@ -12,8 +12,9 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Command each drone from the quickhack menu: repair, hold, dismiss, self-destruct, overclock, fortify and its chassis ability
 - Squad HUD by the health bar: chassis icon, name, HP, stance and cooldown per drone
 - Menu and HUD scale sliders, so both stay readable on 1440p, ultrawide and 4K
-- Name your drones and track each one's kills, saved per playthrough
+- Name your drones and track each one's kills, stored in the save file
 - Squad presets: save three compositions and summon the crew in one click
+- Orders without aiming: Hold position per drone and Regroup for the whole squad, in both menus
 - Vehicles: the android rides along and shoots from the window, flyers escort the car, heavy units wait and return
 - A passive per chassis: self-repair, blinding fire, reactive plating, repair aura, taunt and a damage ramp in long fights
 - Netrunner androids: optional quickhacks on their target in combat (overheat, weapon jam, blind, cripple) with any weapon
