@@ -25,11 +25,16 @@ Summon combat drones that follow you around Night City and fight at your side.
 - No friendly fire; enemies target drones, police never turn them hostile
 - Out-of-combat self-repair with HP readout in the manager window
 - Per-drone mute for hover, beeps and engine sounds
+- Quickhack through the drone camera: aim at a target and fire its own quickhacks (in development, see below)
+- Arena stance: duel a rival drone with matched health and a difficulty slider
 - Drones persist through saves, fast travel, vehicles and cutscenes
 - In-game menu in the game's own UI, fully controller-friendly: summon, squad
   management, upgrades, commands and tuning (hotkey or LB+X)
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
 - English and Portuguese, following the game language
+
+## 🚧 In development
+Camera quickhacks are new. Hacks in your cyberdeck run like the vanilla ones; hacks you do not own are fired by the drone and some of them (Detonate Grenade, System Collapse, Cyberpsychosis) only trigger their cooldown.
 
 ## 📸 Screenshots
 ![screenshot](screenshots/02-menu-drones.jpg)
