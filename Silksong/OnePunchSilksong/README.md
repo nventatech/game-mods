@@ -13,9 +13,10 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 - Fast attacks, no skill delay, infinite tool uses, extra tool slots
 - Immortality, infinite jumps, dash & silk
 - Move speed and game speed sliders
-- Free shopping, give rosaries/shards, rosary multipliers
+- Free shopping, give rosaries/shards/tool metal, rosary multipliers
+- Change crest, skills and tools anywhere; crest slots without a Memory Locket
 - Full heal, refill silk, kill all enemies
-- Tabs for abilities, fast travel and map, every entry with its own switch
+- Tabs for abilities, fast travel, map and fleas, every entry with its own switch
 
 ## 🎮 Controls
 | Input | Action |
