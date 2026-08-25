@@ -29,7 +29,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
 
-Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511).
+Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107), [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) and [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780).
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/31460
