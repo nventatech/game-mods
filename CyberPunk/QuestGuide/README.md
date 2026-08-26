@@ -4,13 +4,14 @@
 
 ![cover](screenshots/00-hero.png)
 
-Press F2 for a native-UI quest guide: main story, Phantom Liberty, ending-affecting side jobs, gigs by fixer, cyberpsychos and NCPD, with live states, search and one-click tracking.
+Native-UI quest guide on F2 or LB+D-pad: main story, Phantom Liberty main and side jobs, ending-affecting quests, gigs by fixer, cyberpsychos and NCPD, with live states, search, sorting and one-click tracking. Full controller support.
 
 ## ✨ Features
-- Press F2 - full quest guide in-game (hotkey changeable in Mod Settings)
-- Sections: main story, Phantom Liberty, affects-ending, gigs by fixer, cyberpsychos, NCPD, cosmetic
+- Press F2 or hold LB + D-pad Down - full quest guide in-game (key and combo changeable in Mod Settings)
+- Controller: D-pad navigates, A selects, X tracks, Y jumps to the tracked quest, LB/RB skip sections, B closes
+- Sections: main story, Phantom Liberty main and side jobs, affects-ending, gigs by fixer, cyberpsychos, NCPD, cosmetic
 - Point-of-no-return warning; search covers descriptions and objectives
-- Live states, filters, search, one-click track
+- Live states, filters, sort by state or A-Z, GO TO TRACKED, one-click track
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
