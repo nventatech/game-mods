@@ -15,8 +15,10 @@ Native-UI quest guide on F2 or LB+D-pad: main story, Phantom Liberty main and si
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/01-panel-1.jpg)
-![screenshot](screenshots/02-panel-2.jpg)
+![screenshot](screenshots/01-categories.jpg)
+![screenshot](screenshots/02-quest-detail.jpg)
+![screenshot](screenshots/03-main-story.jpg)
+![screenshot](screenshots/04-fixers.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
