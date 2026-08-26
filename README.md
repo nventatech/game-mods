@@ -75,6 +75,11 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 |-----|-----------|----------|
 | [MouseTrainer](MOUSE/MouseTrainer) | BepInEx 5 | [23](https://www.nexusmods.com/mousepiforhire/mods/23) |
 
+### Dispatch
+| Mod | Framework | Download |
+|-----|-----------|----------|
+| [DispatchMenu](Dispatch/DispatchMenu) | UE4SS (Lua) | [37](https://www.nexusmods.com/dispatch/mods/37) |
+
 ### Stray
 | Mod | Framework | Download |
 |-----|-----------|----------|
