@@ -8,23 +8,24 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## ✨ Features
 - Native menu with full controller support (LB+Y), same tabs as the CET panel
-- Any item, any rarity - 19 tabs
+- Any item, any rarity - 12 tabs with sub-tabs and item counts
+- Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+
 - Loot filter: block junk by category and tier
 - Auto-loot: empty bodies and containers from a distance, markers included
 - God mode, XP/damage multipliers, unlocks
-- Teleport, fast travel, saved locations
+- Teleport, fast travel, saved locations, spawn any vehicle in front of you
 - Live quest journal with one-click track
 - Items from other mods are protected from cleanup and loot filter
 - English & PT-BR
 
 ## 📸 Screenshots
-![native menu](screenshots/20-native-menu.png)
-![screenshot](screenshots/01-search.png)
-![screenshot](screenshots/09-all-weapons.png)
-![screenshot](screenshots/12-all-cyberware.png)
-![screenshot](screenshots/14-teleport.png)
-![screenshot](screenshots/18-unlocks.png)
-![screenshot](screenshots/19-quests.png)
+![native menu](screenshots/18-native-cheats.png)
+![native menu](screenshots/20-native-weapons.png)
+![screenshot](screenshots/04-cheats.png)
+![screenshot](screenshots/06-weapons.png)
+![screenshot](screenshots/09-vehicles.png)
+![screenshot](screenshots/10-travel.png)
+![screenshot](screenshots/12-story-quests.png)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
