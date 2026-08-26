@@ -7,25 +7,28 @@
 Bigger cleaning area, sprays and liquids never run out, infinite power washer water and infinite trash bag capacity. One menu for everything: F9 or L3+R3 on a gamepad.
 
 ## ✨ Features
-- In-game menu on F9, draggable and scalable
+- In-game menu on F9 (change the key with `MenuKey` in `UserData/MelonPreferences.cfg`), draggable and scalable
 - Full gamepad control (see Controls below)
 - Bigger cleaning area
 - Sprays & liquids never run out
 - Infinite washer water - backpack too
 - Infinite trash bag capacity
 - Movement speed multiplier
-- Unlimited perk points
+- Add or remove skill and hazard points
+- Money and XP multiplier
+- Freeze the mission timer
+- Never fail lockpicking or hacking
 
 ## 🎮 Controls
 | Input | Action |
 | --- | --- |
-| F9 / L3+R3 | open and close the menu |
+| F9 / L3+R3 | open and close the menu (keyboard key set by `MenuKey` in `UserData/MelonPreferences.cfg`, any Unity KeyCode name) |
 | Left stick or arrows | move between options |
 | A | select |
-| B / Esc | close |
+| B | close |
 | Left / right | adjust sliders |
 
-Your character stays put while the menu is open.
+Your character stays put while the menu is open. Window position is remembered.
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
