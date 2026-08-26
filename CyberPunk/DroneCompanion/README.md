@@ -19,22 +19,20 @@ Summon combat drones that follow you around Night City and fight at your side.
 - A passive per chassis: self-repair, blinding fire, reactive plating, repair aura, taunt and a damage ramp in long fights
 - Netrunner androids: optional quickhacks on their target in combat (overheat, weapon jam, blind, cripple) with any weapon
 - Optional explosive rounds for Octant, Griffin, Wyvern and Minotaur
+- Optional indestructible Minotaur arms
 - Spotlight mode: the Minotaur and the Wyvern light the way; pair with passive mode for an escort
 - Optional in-world acquisition: buy each chassis as a control shard from any gunsmith
 - Or skip the shop: menu buttons hand you the control shard, the Rigger chip and the firmware shards
 - No friendly fire; enemies target drones, police never turn them hostile
 - Out-of-combat self-repair with HP readout in the manager window
 - Per-drone mute for hover, beeps and engine sounds
-- Quickhack through the drone camera: aim at a target and fire its own quickhacks (in development, see below)
+- Quickhack through the drone camera with the game's own quickhack menu (V is moved next to the drone, camouflaged, and returns when the camera closes)
 - Arena stance: duel a rival drone with matched health and a difficulty slider
 - Drones persist through saves, fast travel, vehicles and cutscenes
 - In-game menu in the game's own UI, fully controller-friendly: summon, squad
   management, upgrades, commands and tuning (hotkey or LB+X)
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
 - English and Portuguese, following the game language
-
-## 🚧 In development
-Camera quickhacks are new. Hacks in your cyberdeck run like the vanilla ones; hacks you do not own are fired by the drone and some of them (Detonate Grenade, System Collapse, Cyberpsychosis) only trigger their cooldown.
 
 ## 📸 Screenshots
 ![screenshot](screenshots/02-menu-drones.jpg)
