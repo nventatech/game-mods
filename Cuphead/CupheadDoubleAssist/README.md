@@ -12,7 +12,8 @@ Multiplies your damage and health (2x-10x), with optional infinite health and da
 - Optional infinite health / damage
 - Infinite super, jump and coins
 - Boss health bar with the boss portrait, updates as you hit
-- Items tab: every weapon, super and charm by its shop name, unlock and lock back
+- Items tab: every weapon, super and charm by its shop name in the game's language, unlock and lock back
+- Menu and boss bar scale with the screen, with size sliders
 - Hotkeys or controller, live config reload
 
 ## 🎮 Controls
