@@ -16,7 +16,10 @@ In-game cheat menu for Hollow Knight. Press F9 (or L3+R3 on a gamepad), toggle w
 - Geo multipliers, keep geo on death, free shopping, give geo
 - Full heal, refill soul, kill all enemies (with confirmation)
 - Save position, teleport back to it, return to the last bench
-- Tabs for charms, abilities, stags and map, every entry with its own switch
+- Charm effects without owning, equipping or notches (Effect switch per charm)
+- Change charms anywhere, no bench needed
+- Tabs for charms, abilities, stags, map, grubs and items, every entry with its own switch
+- Masks and soul vessels editors
 - Key rebinding inside the menu and a scale slider for big screens
 
 ## 🎮 Controls
@@ -30,11 +33,13 @@ In-game cheat menu for Hollow Knight. Press F9 (or L3+R3 on a gamepad), toggle w
 | LB / RB | change tab |
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu.png)
-![charms](screenshots/02-charms.png)
-![abilities](screenshots/03-abilities.png)
-![map](screenshots/04-map.png)
-![stags](screenshots/05-stags.png)
+![menu](screenshots/01-menu-v2.png)
+![charms](screenshots/02-charms-v2.png)
+![abilities](screenshots/03-abilities-v2.png)
+![stags](screenshots/04-stags-v2.png)
+![map](screenshots/05-map-v2.png)
+![grubs](screenshots/06-grubs.png)
+![items](screenshots/07-items.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
