@@ -4,17 +4,19 @@
 
 ![cover](screenshots/00-hero.png)
 
-In-game cheat menu for MOUSE: P.I. For Hire. Press F9 (or L3+R3 on a gamepad) for the menu, or use the F1-F8 hotkeys with an on-screen toast per toggle.
+In-game cheat menu for MOUSE: P.I. For Hire, in the game's own paper-and-ink look. Press F9 (or L3+R3 on a gamepad) for the menu, or use the F1-F8 hotkeys with an on-screen toast per toggle.
 
 ## ✨ Features
-- In-game menu on F9, styled to match the game
+- In-game menu on F9 with the game's fonts, four tabs: Cheats, Weapons, Items, Settings
 - Full gamepad control, no mouse needed (see Controls below)
-- F1 God Mode, F2 Infinite Ammo (both off by default)
-- F3 Double Damage, F4 Double Health (both on by default)
-- F5 Homing Bullets (off by default): locks every shot onto the enemy closest to your crosshair, respects line of sight, removes weapon spread while active
-- F6 One-Hit Kill, F7 Free Shopping & upgrades (both off by default)
-- F8 Give Cash (+5000 per press)
-- Each cheat is independent; turning one off restores the original values
+- God mode, infinite ammo, one-hit kill, homing bullets (locks every shot onto the enemy closest to your crosshair, respects line of sight, no spread)
+- Damage and health multipliers x1-x10
+- Infinite air and stamina
+- Cash, schematics and prize tokens: add, remove or set to infinite
+- Every weapon: own/lock button and upgrade level 0-3, plus unlock all and max all
+- Power-ups +1/-1
+- Rebindable menu key and gamepad combo, menu size slider (auto-scales for 4K)
+- F1-F8 hotkeys for the main toggles, each cheat independent
 - No game files modified — safe to add or remove at any time
 
 ## 🎮 Controls
@@ -22,12 +24,13 @@ In-game cheat menu for MOUSE: P.I. For Hire. Press F9 (or L3+R3 on a gamepad) fo
 | --- | --- |
 | F9 / L3+R3 | open and close the menu |
 | Stick or d-pad | move between options |
+| LB / RB | switch tabs |
 | A | select |
 | B | close |
 | Left / right | set the multipliers |
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu.png)
+![menu](screenshots/01-cheats.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a language, copy the dictionary, translate the values and return it from `PickTable`.
