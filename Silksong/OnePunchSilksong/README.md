@@ -11,14 +11,16 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 - Full gamepad control, no mouse needed (see Controls below)
 - Needle & silk skills up to one-hit kill
 - Fast attacks, no skill delay, infinite tool uses, extra tool slots
+- Tool effects without owning or equipping, one switch per tool
+- Tool list with type sub-tabs (LT/RT) and color-coded names; crests in their own tab
 - Immortality, infinite jumps, dash & silk
-- Move speed and game speed sliders
+- Move speed, sprint speed and game speed sliders
 - Free shopping, give rosaries/shards/tool metal, rosary multipliers
 - Change crest, skills and tools anywhere; crest slots without a Memory Locket
 - Full heal, refill silk, kill all enemies
 - Noclip flight, set respawn anywhere, max masks and silk spool editors
 - Items tab: every collectable in the game, add or remove with live count, search by name
-- Tabs for abilities, fast travel, map and fleas, every entry with its own switch
+- Tabs for abilities, fast travel, map and fleas: every station, area chart and flea with its own switch
 
 ## 🎮 Controls
 | Input | Action |
@@ -33,13 +35,14 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 Every key and the gamepad combo can be rebound in the menu itself ("Edit keys" in the General tab).
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu-v2.png)
-![abilities](screenshots/02-abilities-v2.png)
-![tools](screenshots/03-tools-v2.png)
-![fast travel](screenshots/04-fasttravel-v2.png)
-![map](screenshots/05-map-v2.png)
-![fleas](screenshots/06-fleas.png)
-![items](screenshots/07-items.png)
+![menu](screenshots/01-menu-v4.png)
+![abilities](screenshots/02-abilities-v4.png)
+![tools](screenshots/03-tools-v4.png)
+![crests](screenshots/04-crests-v4.png)
+![fast travel](screenshots/05-fasttravel-v4.png)
+![map](screenshots/06-map-v4.png)
+![fleas](screenshots/07-fleas-v4.png)
+![items](screenshots/08-items-v4.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
