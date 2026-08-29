@@ -21,6 +21,11 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 | [UnequipMods](CyberPunk/UnequipMods) | redscript | [31701](https://www.nexusmods.com/cyberpunk2077/mods/31701) |
 | [QuestGuide](CyberPunk/QuestGuide) | redscript | [31784](https://www.nexusmods.com/cyberpunk2077/mods/31784) |
 
+### Dying Light
+| Mod | Framework | Download |
+|-----|-----------|----------|
+| [UltrawideUI](DyingLight/UltrawideUI) | pak (hud.xui) | [1676](https://www.nexusmods.com/dyinglight/mods/1676) |
+
 ### Hytale
 | Mod | Framework | Download |
 |-----|-----------|----------|
