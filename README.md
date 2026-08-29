@@ -20,6 +20,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 | [BestInSlot](CyberPunk/BestInSlot) | redscript | [31702](https://www.nexusmods.com/cyberpunk2077/mods/31702) |
 | [UnequipMods](CyberPunk/UnequipMods) | redscript | [31701](https://www.nexusmods.com/cyberpunk2077/mods/31701) |
 | [QuestGuide](CyberPunk/QuestGuide) | redscript | [31784](https://www.nexusmods.com/cyberpunk2077/mods/31784) |
+| [UltrawideUI](CyberPunk/UltrawideUI) | CET (Lua) | [GitHub only](CyberPunk/UltrawideUI) |
 
 ### Dying Light
 | Mod | Framework | Download |
