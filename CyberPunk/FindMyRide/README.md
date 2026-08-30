@@ -10,9 +10,12 @@ Text search, category tabs and sorting inside the native vehicle call menu (hold
 - Text search in the vehicle call menu, by name or manufacturer
 - Category tabs: All / Favorites / Recent / Cars / Motorcycles / Armed, last one remembered
 - Recent tab lists the last 10 vehicles you summoned
-- Hide vehicles you never use with H; they move to a Hidden tab
+- Hide vehicles you never use with H (Y on gamepad); they move to a Hidden tab
+- Gamepad: D-pad or LB/RB cycle tabs; footer shows real key/button icons
 - Sort by name, manufacturer or vehicle type; favorites-first toggle
-- Manufacturer and type shown for the selected vehicle
+- Manufacturer, type, year, horsepower and drive layout of the selected vehicle
+- Same-name paint variants merged into one entry (can be turned off)
+- Panel color: cyan, yellow or red
 - Hides the vanilla "still in Beta" disclaimer
 - Native UI - no extra windows
 - Options in the Mod Settings menu (optional dependency)
@@ -26,6 +29,8 @@ Text search, category tabs and sorting inside the native vehicle call menu (hold
 ![screenshot](screenshots/03-motorcycles.jpg)
 ![screenshot](screenshots/07-armed.jpg)
 ![screenshot](screenshots/06-hidden.jpg)
+![screenshot](screenshots/08-search.jpg)
+![screenshot](screenshots/09-settings.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
