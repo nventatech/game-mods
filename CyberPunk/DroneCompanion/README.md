@@ -37,9 +37,9 @@ Summon combat drones that follow you around Night City and fight at your side.
 - English and Portuguese, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/01-drone-squad.jpg)
-![screenshot](screenshots/07-drone-upgrades.jpg)
-![screenshot](screenshots/03-cet-squad.jpg)
+![screenshot](screenshots/02-mech-escort.jpg)
+![screenshot](screenshots/05-drone-upgrades.jpg)
+![screenshot](screenshots/08-cet-squad.jpg)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript, Codeware and TweakXL.
