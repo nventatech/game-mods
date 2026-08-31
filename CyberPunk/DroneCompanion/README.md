@@ -31,13 +31,15 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Drones persist through saves, fast travel, vehicles and cutscenes
 - In-game menu in the game's own UI, fully controller-friendly: summon, squad
   management, upgrades, commands and tuning (hotkey or LB+X)
+- Drone Upgrades screen next to the game's own perk grid, on the Character screen
+- Drones filter tab in the inventory; summon a chassis right from its control shard
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
 - English and Portuguese, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/02-menu-drones.jpg)
-![screenshot](screenshots/03-menu-squad.jpg)
-![screenshot](screenshots/08-arasaka-flying.jpg)
+![screenshot](screenshots/01-drone-squad.jpg)
+![screenshot](screenshots/07-drone-upgrades.jpg)
+![screenshot](screenshots/03-cet-squad.jpg)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/32572). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2. Requires Cyber Engine Tweaks, RED4ext, redscript, Codeware and TweakXL.
