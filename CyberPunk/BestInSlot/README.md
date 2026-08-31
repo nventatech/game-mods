@@ -4,19 +4,21 @@
 
 ![cover](screenshots/00-hero.png)
 
-Gold TOP tag on the best item of every category across all item screens. B equips the best loadout; N sells non-TOP weapons and clothes.
+Gold TOP tag on the best item of every category across all item screens, sorted to the top of the grid. One key equips the best loadout, another bulk-sells everything without the tag.
 
 ## ✨ Features
 - Gold TOP tag on every best item
 - Green (+) tag on items better than what you have equipped
+- TOP items sorted to the top of the grid
 - B in the backpack or inventory - equip best loadout
 - N at vendors - sell non-TOP weapons and clothes
-- Options in the Mod Settings menu (optional dependency)
+- Controller: shoulder + D-pad does the same
+- Rebindable keys and options in the Mod Settings menu (optional dependency)
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/02-backpack-weapons.jpg)
-![screenshot](screenshots/03-backpack-clothes.jpg)
+![screenshot](screenshots/02-backpack-top-first.jpg)
+![screenshot](screenshots/03-vendor-bulk-sell.jpg)
 ![screenshot](screenshots/01-inventory-equip-best.jpg)
 ![screenshot](screenshots/04-mod-settings.jpg)
 
