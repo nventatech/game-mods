@@ -21,6 +21,7 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 - Noclip flight, set respawn anywhere, max masks and silk spool editors
 - Items tab: every collectable in the game, add or remove with live count, search by name
 - Tabs for abilities, fast travel, map and fleas: every station, area chart and flea with its own switch
+- Teleport tab: every room in the game grouped by area, with search; Go buttons on stations and fleas
 
 ## 🎮 Controls
 | Input | Action |
