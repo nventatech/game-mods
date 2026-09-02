@@ -1,6 +1,6 @@
 # Custodian Menu
 
-[![Nexus Mods](https://img.shields.io/badge/Crypt%20Custodian-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods)
+[![Download](https://img.shields.io/badge/Download-CustodianMenu--1.1.0.zip-2ea44f?logo=github)](https://github.com/nventatech/game-mods/raw/main/CryptCustodian/CustodianMenu/CustodianMenu-1.1.0.zip)
 
 ![cover](screenshots/00-hero.png)
 
@@ -41,7 +41,7 @@ While the menu is open the game ignores its own controls, so the cat stays put.
 Strings live in `I18n.cpp`, one table keyed by the English text. To add a language, copy the Portuguese table, translate the values and add a mode for it.
 
 ## 📦 Install
-Requires [Aurie](https://github.com/AurieFramework/Aurie) and [YYToolkit](https://github.com/AurieFramework/YYToolkit).
+Download the zip from the badge above (Nexus page coming once the game is approved there). Requires [Aurie](https://github.com/AurieFramework/Aurie) and [YYToolkit](https://github.com/AurieFramework/YYToolkit).
 
 Windows: run the Aurie installer on `CryptCustodian.exe`, then extract the zip into the game folder. The DLLs land in `mods/aurie/`.
 
