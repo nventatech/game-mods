@@ -14,7 +14,8 @@ In-game cheat menu for Crypt Custodian. Press F9 (or LB+RB on a gamepad), change
 - Friends, pictures, cat ghosts, stickers and reels
 - Difficulty and every assist option
 - Clear the current curse, edit run stats, toggle the game's own debug flags
-- Infinite switches persist in `CustodianMenu.ini` next to the game
+- Follows the game's language (English or Portuguese), with an in-menu override
+- Infinite switches and language persist in `CustodianMenu.ini` next to the game
 
 ## 🎮 Controls
 | Input | Action |
@@ -35,6 +36,9 @@ While the menu is open the game ignores its own controls, so the cat stays put.
 ![collection](screenshots/06-collection.jpg)
 ![difficulty](screenshots/07-difficulty.jpg)
 ![misc](screenshots/08-misc.jpg)
+
+## 🌍 Translating
+Strings live in `I18n.cpp`, one table keyed by the English text. To add a language, copy the Portuguese table, translate the values and add a mode for it.
 
 ## 📦 Install
 Requires [Aurie](https://github.com/AurieFramework/Aurie) and [YYToolkit](https://github.com/AurieFramework/YYToolkit).
