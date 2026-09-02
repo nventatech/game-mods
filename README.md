@@ -96,6 +96,11 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 |-----|-----------|----------|
 | [OfflineBots](TrickyTowers/OfflineBots) | BepInEx 5 (x86) | [7](https://www.nexusmods.com/trickytowers/mods/7) |
 
+### Crypt Custodian
+| Mod | Framework | Download |
+|-----|-----------|----------|
+| [CustodianMenu](CryptCustodian/CustodianMenu) | Aurie + YYToolkit (C++) | [GitHub](CryptCustodian/CustodianMenu) |
+
 ## ❤️ Support
 
 If a mod helped you, consider [donating via PayPal](https://www.paypal.com/donate/?business=SR28XBBCYSPHE&no_recurring=0&item_name=Help+me+buy+a+coffee.&currency_code=USD).
