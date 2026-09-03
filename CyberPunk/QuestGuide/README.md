@@ -4,14 +4,15 @@
 
 ![cover](screenshots/00-hero.png)
 
-Native-UI quest guide on F2 or LB+D-pad: main story, Phantom Liberty main and side jobs, ending-affecting quests, gigs by fixer, cyberpsychos and NCPD, with live states, search, sorting and one-click tracking. Full controller support.
+Native-UI quest guide on F2, LB+D-pad or a button in the Character menu: main story, Phantom Liberty main and side jobs, ending-affecting quests, gigs by fixer, cyberpsychos and NCPD, with progress bars, live states, search, sorting and one-click tracking. Full controller support.
 
 ## ✨ Features
-- Press F2 or hold LB + D-pad Down - full quest guide in-game (key and combo changeable in Mod Settings)
+- Press F2, hold LB + D-pad Down, or click QUEST GUIDE in the Character menu - full-height quest guide in-game (key and combo changeable in Mod Settings)
 - Controller: D-pad navigates, A selects, X tracks, Y jumps to the tracked quest, LB/RB skip sections, B closes
 - Sections: main story, Phantom Liberty main and side jobs, affects-ending, gigs by fixer, cyberpsychos, NCPD, cosmetic
 - Point-of-no-return warning; search covers descriptions and objectives
-- Live states, filters, sort by state or A-Z, GO TO TRACKED, one-click track
+- Live states, filters, Open decisions switch, sort by state or A-Z, GO TO TRACKED, one-click track
+- Progress bar per section; Affects Ending quests show what they unlock in the list
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
@@ -19,6 +20,8 @@ Native-UI quest guide on F2 or LB+D-pad: main story, Phantom Liberty main and si
 ![screenshot](screenshots/02-quest-detail.jpg)
 ![screenshot](screenshots/03-main-story.jpg)
 ![screenshot](screenshots/04-fixers.jpg)
+![screenshot](screenshots/05-section-progress.jpg)
+![screenshot](screenshots/06-character-menu-button.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
