@@ -9,7 +9,7 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 ## ✨ Features
 - In-game menu on F9, everything live
 - Full gamepad control, no mouse needed (see Controls below)
-- Needle & silk skills up to one-hit kill
+- Damage up to one-hit kill: global, needle, silk skills, or per tool and skill
 - Fast attacks, no skill delay, infinite tool uses, extra tool slots
 - Tool effects without owning or equipping, one switch per tool
 - Tool list with type sub-tabs (LT/RT) and color-coded names; crests in their own tab
