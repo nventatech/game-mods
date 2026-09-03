@@ -8,6 +8,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## ✨ Features
 - Native menu with full controller support (LB+Y), same tabs as the CET panel
+- Full-height native menu with a live status card, mouse hover and wheel, own scale slider
 - Any item, any rarity - 12 tabs with sub-tabs and item counts
 - Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+
 - Loot filter: block junk by category and tier
