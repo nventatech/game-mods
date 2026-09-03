@@ -16,12 +16,10 @@ Native-UI quest guide on F2, LB+D-pad or a button in the Character menu: main st
 - English & PT-BR, following the game language
 
 ## 📸 Screenshots
-![screenshot](screenshots/01-categories.jpg)
-![screenshot](screenshots/02-quest-detail.jpg)
-![screenshot](screenshots/03-main-story.jpg)
-![screenshot](screenshots/04-fixers.jpg)
-![screenshot](screenshots/05-section-progress.jpg)
-![screenshot](screenshots/06-character-menu-button.jpg)
+![screenshot](screenshots/01-sections.jpg)
+![screenshot](screenshots/02-main-story.jpg)
+![screenshot](screenshots/03-character-menu-button.jpg)
+![screenshot](screenshots/04-mod-settings.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
