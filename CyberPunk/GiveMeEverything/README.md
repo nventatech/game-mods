@@ -13,7 +13,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+
 - Loot filter: block junk by category and tier
 - Auto-loot: empty bodies and containers from a distance, markers included
-- God mode, XP/damage multipliers, cyberware duration sliders, unlocks
+- God mode, XP/damage multipliers, cyberware duration and slow-mo sliders, quickhack/run speed/crafting tweaks, unlocks
 - Teleport, fast travel, saved locations, spawn any vehicle in front of you
 - Live quest journal with one-click track
 - Items from other mods are protected from cleanup and loot filter
