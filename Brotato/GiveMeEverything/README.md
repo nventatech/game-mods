@@ -4,7 +4,7 @@
 
 ![cover](screenshots/00-hero.png)
 
-All-in-one cheat menu for Brotato: give any item, weapon or upgrade, edit gold/XP, god-mode cheats, spawn consumables, manage every unlock (characters, codex, challenges, danger, wins) and save loadouts. Full controller support, en/pt-BR.
+All-in-one cheat menu for Brotato: give any item, weapon or upgrade, edit gold/XP, god-mode cheats, spawn consumables, manage every unlock (characters, codex, challenges, danger, wins) and save loadouts. Press F6 to open (L3+R3 on controller). Full controller support, en/pt-BR.
 
 ## ✨ Features
 - Give tabs with search, tier filter, icons and real in-game descriptions; DLC and modded content included automatically; cursed toggle with the DLC
