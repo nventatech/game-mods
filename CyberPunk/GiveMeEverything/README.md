@@ -11,7 +11,9 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Info panel that explains every option, nine color themes, Settings tab
 - Any item, any rarity - 13 tabs with sub-tabs and item counts
 - Combat test: spawn a squad of any faction in front of you to try a build
-- Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+
+- Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+, perks one by one
+- Weapon mods on the gun in hand: accuracy, range, zoom, pierce, smart lock, melee beast, psycho
+- Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
 - Loot filter: block junk by category and tier
 - Auto-loot: empty bodies and containers from a distance, markers included
 - God mode, XP/damage multipliers, cyberware duration and slow-mo sliders, quickhack/run speed/crafting tweaks, unlocks
