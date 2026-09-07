@@ -15,7 +15,9 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Weapon mods on the gun in hand: accuracy, range, zoom, pierce, smart lock, melee beast, psycho
 - Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
 - Loot filter: block junk by category and tier
-- Auto-loot: empty bodies and containers from a distance, markers included
+- Auto-loot: empty bodies and containers from a distance, markers included, plus a hotkey for a single sweep
+- Checklists: every perk shard and set clothing piece with teleport, map pin and directions; origin of every iconic weapon
+- Vehicle light colour and brightness, rainbow lights, infinite missiles, instant enter
 - God mode, XP/damage multipliers, cyberware duration and slow-mo sliders, quickhack/run speed/crafting tweaks, unlocks
 - Teleport to waypoint, saved spot or quest objective, fast travel, spawn any vehicle in front of you
 - Clock speed, day skip, weather freeze, wanted level hold
@@ -36,6 +38,8 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
 
 Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) (which brings RED4ext and redscript).
+
+Shard and clothing set locations by Spuddeh ([Perk Shard Checklist](https://www.nexusmods.com/cyberpunk2077/mods/25594), [Clothing Sets Checklist](https://www.nexusmods.com/cyberpunk2077/mods/26829)).
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/31460
