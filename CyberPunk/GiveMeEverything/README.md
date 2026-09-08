@@ -15,12 +15,13 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Weapon mods on the gun in hand: accuracy, range, zoom, pierce, smart lock, melee beast, psycho
 - Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
 - Loot filter: block junk by category and tier
-- Auto-loot: empty bodies and containers from a distance, markers included, plus a hotkey for a single sweep
+- Auto-loot: empty bodies and containers from a distance, markers included - all the time, on the interact key or only on your own CET keybind
 - Checklists: every perk shard and set clothing piece with teleport, map pin and directions; origin of every iconic weapon
 - Vehicle light colour and brightness, rainbow lights, infinite missiles, instant enter
 - God mode, XP/damage multipliers, cyberware duration and slow-mo sliders, quickhack/run speed/crafting tweaks, unlocks
 - Teleport to waypoint, saved spot or quest objective, fast travel, spawn any vehicle in front of you
-- Clock speed, day skip, weather freeze, wanted level hold
+- Clock speed, day skip, weather freeze, wanted level hold, easy arcades
+- Stuck save rescue: unlock fast travel and saving, clear movement restrictions, reset the camera
 - Live quest journal with one-click track
 - Items from other mods are protected from cleanup and loot filter
 - English & PT-BR
