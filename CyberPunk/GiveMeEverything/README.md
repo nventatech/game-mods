@@ -40,8 +40,6 @@ Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Ex
 
 Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) (which brings RED4ext and redscript).
 
-Shard and clothing set locations by Spuddeh ([Perk Shard Checklist](https://www.nexusmods.com/cyberpunk2077/mods/25594), [Clothing Sets Checklist](https://www.nexusmods.com/cyberpunk2077/mods/26829)).
-
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/31460
 - All my mods: https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods
