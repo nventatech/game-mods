@@ -12,6 +12,7 @@ In-game cheat menu for Dispatch, styled like the SDN screens. Works on keyboard 
 - **Shift**: game speed x1-x8, force the current call to success/fail/miss, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift.
 - **Hacking**: extra life, no fail on time out, finish the hacking with success.
 - **Story**: skip the current scene, skip to the next choice, auto-win QTEs.
+- Toggles are saved to `settings.txt` next to the mod and restored on the next launch.
 - English and Brazilian Portuguese, picked from the game language.
 
 ## 🎮 Controls
