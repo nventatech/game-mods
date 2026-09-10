@@ -8,9 +8,10 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## ✨ Features
 - Controller menu drawn by the mod (RB+Y or F7), keyboard works too, same 13 tabs
-- Info panel that explains every option, nine color themes, Settings tab
+- Info panel that explains every option, nine color themes, settings backup and restore
 - Any item, any rarity - 13 tabs with sub-tabs and item counts
 - Combat test: spawn a squad of any faction in front of you to try a build
+- Aim assist (hold, toggle, ADS, while shooting or always), NPC ESP through walls, stat lock
 - Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+, perks one by one
 - Weapon mods on the gun in hand: accuracy, range, zoom, pierce, smart lock, melee beast, psycho
 - Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
@@ -38,7 +39,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
 
-Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) (which brings RED4ext and redscript).
+Requires [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) and [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) (which brings RED4ext and redscript). The zip has `bin/` and `r6/` folders; copy both.
 
 ## 🔗 Links
 - Mod page: https://www.nexusmods.com/cyberpunk2077/mods/31460
