@@ -129,7 +129,6 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Impact Kill Looting Fix | Deceptious | [28099](https://www.nexusmods.com/cyberpunk2077/mods/28099) |
 | in_world_navigation_v0.1.20.zip | Jack Humbert | [4583](https://www.nexusmods.com/cyberpunk2077/mods/4583) |
 | Level 80 CAP | DeepVision | [15659](https://www.nexusmods.com/cyberpunk2077/mods/15659) |
-| Map Exit Lighting and HDR Fixes - Map Nuclear Explosion Fix | sosuinepsixuyu | [23420](https://www.nexusmods.com/cyberpunk2077/mods/23420) |
 | Melee Attacks Fixes And Enhancements | sosuinepsixuyu | [16921](https://www.nexusmods.com/cyberpunk2077/mods/16921) |
 | MovementAndCameraTweaks | sosuinepsixuyu | [4039](https://www.nexusmods.com/cyberpunk2077/mods/4039) |
 | NCPD Fixes | Demon9ne | [22838](https://www.nexusmods.com/cyberpunk2077/mods/22838) |
@@ -152,24 +151,29 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Status Bar Bug Fixes | RMK | [4316](https://www.nexusmods.com/cyberpunk2077/mods/4316) |
 | Untrack Quest Ultimate | anygoodname | [6328](https://www.nexusmods.com/cyberpunk2077/mods/6328) |
 | Virtual Atelier Delivery | DJ_Kovrik and e256 | [21482](https://www.nexusmods.com/cyberpunk2077/mods/21482) |
+| Virtual Car Dealer | DJ_Kovrik | [4454](https://www.nexusmods.com/cyberpunk2077/mods/4454) |
 
 ### Visuals and Graphics
 | Mod | Author | Nexus |
 |-----|--------|-------|
 | 1. Disappearing NPC and Vehicle Fix | Valour549 | [19628](https://www.nexusmods.com/cyberpunk2077/mods/19628) |
 | Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines  | EmreHQ | [12700](https://www.nexusmods.com/cyberpunk2077/mods/12700) |
+| Better Lanterns - Vanilla Enhanced | orangeguy | [23639](https://www.nexusmods.com/cyberpunk2077/mods/23639) |
 | Better Menu | Souanpt | [32400](https://www.nexusmods.com/cyberpunk2077/mods/32400) |
 | Better Windows | sosuinepsixuyu | [7160](https://www.nexusmods.com/cyberpunk2077/mods/7160) |
 | Blur Begone (Clear Materials with Refraction) - Blur Begone | CyanideX | [8105](https://www.nexusmods.com/cyberpunk2077/mods/8105) |
+| Classic Cigarettes HD | noha7ers | [12838](https://www.nexusmods.com/cyberpunk2077/mods/12838) |
 | Cyberpunk 2077 HD Reworked Project Balanced | Halk Hogan PL | [7652](https://www.nexusmods.com/cyberpunk2077/mods/7652) |
 | DecalsFlickeringFix | sosuinepsixuyu | [16579](https://www.nexusmods.com/cyberpunk2077/mods/16579) |
 | Effects Rendering Fix | sosuinepsixuyu | [19258](https://www.nexusmods.com/cyberpunk2077/mods/19258) |
-| Environment Textures Overhaul - ETO - ETO 4K | nopoPak | [13372](https://www.nexusmods.com/cyberpunk2077/mods/13372) |
+| Environment Textures Overhaul - ETO - ETO 2K | nopoPak | [13372](https://www.nexusmods.com/cyberpunk2077/mods/13372) |
+| Exploded Vehicles Smoke Overhaul VFX - Black Smoke Full v2.01 (Cazanu' | cradilyex | [23861](https://www.nexusmods.com/cyberpunk2077/mods/23861) |
 | Eye Adaptation Complete Overhaul - Auto Exposure Fix - Optional Divers | Dravic | [2375](https://www.nexusmods.com/cyberpunk2077/mods/2375) |
 | Fire and Explosions Texture Overhaul (OPTIMIZED) | Keen | [15205](https://www.nexusmods.com/cyberpunk2077/mods/15205) |
 | Fix Flickering Particles | sosuinepsixuyu | [16196](https://www.nexusmods.com/cyberpunk2077/mods/16196) |
 | General Shadows Fix | sosuinepxisuyu | [20405](https://www.nexusmods.com/cyberpunk2077/mods/20405) |
-| High Res Containers - MonstrrMagic Texture Series - Containers 4K | XilaMonstrr | [7998](https://www.nexusmods.com/cyberpunk2077/mods/7998) |
+| HD Animated Crosswalks - Emissive 4K Vanilla | curiousrobot | [26972](https://www.nexusmods.com/cyberpunk2077/mods/26972) |
+| High Res Containers - MonstrrMagic Texture Series - Containers 2K | XilaMonstrr | [7998](https://www.nexusmods.com/cyberpunk2077/mods/7998) |
 | High Res Food and Drinks - MonstrrMagic Texture Series - Food and Drin | XilaMonstrr | [7999](https://www.nexusmods.com/cyberpunk2077/mods/7999) |
 | High Res Graffiti - MonstrrMagic Texture Series - Graffiti 2K | XilaMonstrr | [6300](https://www.nexusmods.com/cyberpunk2077/mods/6300) |
 | High Res Minor Named NPCs - MonstrrMagic Texture Series - Minor NPCs - | XilaMonstrr | [8045](https://www.nexusmods.com/cyberpunk2077/mods/8045) |
@@ -189,6 +193,7 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Preem Scopes (Remove Tint Glitches Scanlines and 3D Depth Effect - FOM | CyanideX | [10021](https://www.nexusmods.com/cyberpunk2077/mods/10021) |
 | Preem Water 2.0 - Paradise | CyanideX | [8275](https://www.nexusmods.com/cyberpunk2077/mods/8275) |
 | Rainmap_DistantShadows | sosuinepsixuyu | [8610](https://www.nexusmods.com/cyberpunk2077/mods/8610) |
+| Realistic Bullet Holes (v2) | keen | [15309](https://www.nexusmods.com/cyberpunk2077/mods/15309) |
 | Realistic Map 16K | SvenVH | [17811](https://www.nexusmods.com/cyberpunk2077/mods/17811) |
 | Sandstorm Flickering Fix | sosuinepsixuyu | [19142](https://www.nexusmods.com/cyberpunk2077/mods/19142) |
 | Smoke Texture Overhaul (OPTIMIZED) | Keen | [15226](https://www.nexusmods.com/cyberpunk2077/mods/15226) |

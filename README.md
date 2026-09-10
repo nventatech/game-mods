@@ -20,8 +20,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 | [BestInSlot](CyberPunk/BestInSlot) | redscript | [31702](https://www.nexusmods.com/cyberpunk2077/mods/31702) |
 | [UnequipMods](CyberPunk/UnequipMods) | redscript | [31701](https://www.nexusmods.com/cyberpunk2077/mods/31701) |
 | [QuestGuide](CyberPunk/QuestGuide) | redscript | [31784](https://www.nexusmods.com/cyberpunk2077/mods/31784) |
-
-Collection: [Night City, Fully Loaded](CyberPunk/NightCityFullyLoaded), my full setup with these six inside. [Nexus page](https://www.nexusmods.com/games/cyberpunk2077/collections/wquwq8).
+| [Night City, Fully Loaded](CyberPunk/NightCityFullyLoaded) | Vortex collection | [wquwq8](https://www.nexusmods.com/games/cyberpunk2077/collections/wquwq8) |
 
 ### Dying Light
 | Mod | Framework | Download |
