@@ -7,12 +7,12 @@
 In-game cheat menu for Dispatch, styled like the SDN screens. Works on keyboard and controller, pauses the game while open. No trainer, no game files modified.
 
 ## ✨ Features
-- **Heroes**: motivated, instant rest, never rests, XP on/off, XP multiplier, give XP, level up now, stat points, max level, sabotage immune, never refuses, rally, clear negative status, heal injuries. One hero or all at once.
+- **Heroes**: motivated, instant rest, never rests, XP on/off, XP multiplier, give XP, level up now, stat points, max level, sabotage immune, never refuses, rally, clear negative status, heal injuries, inflict injury. One hero or all at once.
 - **Stats**: combat, mobility, vigor, charisma, intellect with +/- per hero, all to 10 or back to 1.
 - **Shift**: game speed x1-x8, force the current call to success/fail/miss, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift.
 - **Hacking**: extra life, no fail on time out, finish the hacking with success.
-- **Story**: skip the current scene, skip to the next choice, auto-win QTEs.
-- Toggles are saved to `settings.txt` next to the mod and restored on the next launch.
+- **Story**: skip the current scene, skip to the next choice, auto-win QTEs, read-only list of the game's story variables (hero/anti-hero, mentor, romance, flags).
+- Toggles and the menu hotkey (`hotkey=F2`) are saved to `settings.txt` next to the mod and restored on the next launch.
 - English and Brazilian Portuguese, picked from the game language.
 
 ## 🎮 Controls
