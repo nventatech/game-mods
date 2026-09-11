@@ -11,12 +11,15 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Native companion AI: real follow, teleport catch-up, rejoin after combat
 - Command each drone from the quickhack menu: repair, hold, dismiss, self-destruct, overclock, fortify and its chassis ability
 - Squad HUD by the health bar: chassis icon, name, HP, stance and cooldown per drone
+- CET menu with option search, pinned rows, Active tab, side or top tabs, status strip, compact mode, hidden tabs and a settings + squad backup
 - Menu and HUD scale sliders, so both stay readable on 1440p, ultrawide and 4K
 - Name your drones and track kills, deaths and rank per drone, stored in the save file
+- Squad title: three ranks bought with upgrade points, whole squad stronger, one summon point less per rank
+- Immortal drones toggle for people who want to keep the same crew forever
 - Paint jobs: every faction skin per drone, or random
 - Field repair: wrecks stay 60 s, press F next to one or use the card; red icon on HUD, minimap and map
 - Hijack enemy drones, mechs and turrets for RAM, up to three at a time
-- Androids loot bodies and dropped guns after a fight
+- Androids loot bodies, dropped guns and containers after a fight, leaving quest items alone
 - Ghost mode while crouched, scanner focus, under-fire HUD
 - Squad presets: save five compositions and summon the crew in one click
 - Orders without aiming: Hold position per drone and Regroup for the whole squad, in both menus
@@ -39,7 +42,7 @@ Summon combat drones that follow you around Night City and fight at your side.
 - Drone Upgrades screen next to the game's own perk grid, on the Character screen
 - Drones filter tab in the inventory; summon a chassis right from its control shard
 - Summon/dismiss and model-cycle hotkeys (bound in CET Bindings)
-- English and Portuguese, following the game language
+- Eight languages (EN, PT-BR, ES, FR, DE, RU, ZH, PL), following the game language or a picker in Settings
 
 ## 📸 Screenshots
 ![screenshot](screenshots/02-mech-escort.jpg)
