@@ -7,15 +7,16 @@
 All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, teleport, fast travel, vehicles, quest journal and more.
 
 ## ✨ Features
-- Controller menu drawn by the mod (RB+Y or F7), keyboard works too, same 13 tabs
+- Controller menu drawn by the mod (RB+Y or F7), keyboard works too, same tabs
 - Info panel that explains every option, nine color themes, settings backup and restore
-- Any item, any rarity - 13 tabs with sub-tabs and item counts
+- Any item, any rarity - 15 tabs with sub-tabs and item counts
+- Option search across every tab, right-click to pin rows, Active tab, tab bar left or top, hide unused tabs, compact mode
 - Combat test: spawn a squad of any faction in front of you to try a build
 - Aim assist (hold, toggle, ADS, while shooting or always), NPC ESP through walls, stat lock
 - Noclip, kill hostiles nearby, hide HUD, FOV, attributes -/+, perks one by one
 - Weapon mods on the gun in hand: accuracy, range, zoom, pierce, smart lock, melee beast, psycho
 - Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
-- Loot filter: block junk by category and tier
+- Loot filter: block junk by category and tier, up to 5++
 - Auto-loot: empty bodies and containers from a distance, markers included - all the time, on the interact key or only on your own CET keybind
 - Checklists: every perk shard and set clothing piece with teleport, map pin and directions; origin of every iconic weapon
 - Vehicle light colour and brightness, rainbow lights, infinite missiles, instant enter
@@ -25,7 +26,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Stuck save rescue: unlock fast travel and saving, clear movement restrictions, reset the camera
 - Live quest journal with one-click track
 - Items from other mods are protected from cleanup and loot filter
-- English & PT-BR
+- 8 languages: EN, PT-BR, ES, FR, DE, RU, ZH-CN, PL (RU and ZH need a CET font setting, the mod shows how)
 
 ## 📸 Screenshots
 ![screenshot](screenshots/08-cheats-survival.png)
