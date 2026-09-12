@@ -11,7 +11,7 @@ All-in-one cheat menu for Brotato: give any item, weapon or upgrade, edit gold/X
 - Gold/XP editing with infinite gold, invulnerability, one-shot enemies, instant waves, end wave, starting wave picker, consumable spawner
 - Inventory tab with per-item removal and clear-all; named loadouts saved between runs
 - Unlocks manager (works from the title screen): per-entry lock/unlock plus un/lock-all per section (asks for a second click), and win painting up to Nightmare with the proper character select colors and border
-- Controller: LB/RB tabs, LT/RT tiers/sections, Y cursed, X un/lock all; open with L3+R3. Works in local and online co-op, shop included
+- Controller: LB/RB tabs, LT/RT tiers/sections, Y cursed, X un/lock all; open with L3+R3. Works in local co-op and Brotato Online (clients act through the host, which needs the mod too), shop included
 - Options in Options > Mods (requires ModOptions): open key, controller shortcut, pause on open, menu scale
 
 ## 📸 Screenshots
