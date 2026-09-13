@@ -9,8 +9,9 @@ In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggl
 ## ✨ Features
 - In-game menu on F9, everything live
 - Full gamepad control, no mouse needed (see Controls below)
-- God mode (persists between runs and restarts), one-hit kill, damage multiplier, no clip, game speed, hide HUD
-- Menu scale slider - readable on 1440p, ultrawide and 4K (default picked from your screen)
+- God mode (persists between runs and restarts), damage slider from x0.1 to INF (one-hit kill), no clip, game speed, hide HUD
+- Enable mod switch that pauses every cheat at once
+- Settings tab: menu scale (readable on 1440p, ultrawide and 4K) and menu key rebinding
 - Every item in the game with +/-, remove and infinite - DLC items included (Woolhaven section, everything else under Other)
 - Cult faith: raise, lower, keep maxed, stop the drain, clear negative thoughts
 - Follower cards with live portrait: traits, rename, spawn, loyalty, heal, rejuvenate, cure dissent, free prisoners
@@ -34,10 +35,11 @@ In-game cheat menu for Cult of the Lamb. Press F9 (or L3+R3 on a gamepad), toggl
 
 ## 📸 Screenshots
 ![player](screenshots/01-player-tab.png)
-![followers](screenshots/02-followers-tab.png)
-![unlocks](screenshots/04-unlocks-tab.png)
-![world](screenshots/05-world-tab.png)
-![console](screenshots/07-console-tab.png)
+![combat](screenshots/02-combat-tab.png)
+![followers](screenshots/03-followers-tab.png)
+![unlocks](screenshots/05-unlocks-tab.png)
+![world](screenshots/06-world-tab.png)
+![console](screenshots/08-console-tab.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
