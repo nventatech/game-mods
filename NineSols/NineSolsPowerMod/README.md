@@ -7,14 +7,16 @@
 In-game cheat menu for Nine Sols. Press F9 (or L3+R3 on a gamepad), toggle what you want, no restart and no other plugin needed.
 
 ## ✨ Features
-- In-game menu on F9, everything live
+- In-game menu on F9 with tabs for Player, Combat, World, Abilities and Settings
 - Full gamepad control, no mouse needed (see Controls below)
-- God mode, one-hit kill, health / attack / gold multipliers
+- Health and attack sliders from x1 to INF: INF is god mode on health and one-hit kill on attack
+- Fine 0.1 steps for attack, down to x0.1
 - Infinite qi, arrows and potions on separate switches; infinite dash, air jump, unlimited jades
-- Move speed and game speed sliders
-- Free shopping, give gold, damage numbers, skip hacking minigame
-- Full heal, kill all enemies, add or remove gold
+- Gold gain, move speed and game speed sliders
+- Give or remove gold, full heal, kill all enemies, damage numbers, skip hacking minigame
 - Abilities tab: every ability, jade and upgrade on its own switch, filtered by category
+- Settings tab: menu size, rebind every hotkey, gamepad on or off
+- Enable mod switch that turns everything off, game speed included
 
 ## 🎮 Controls
 | Input | Action |
@@ -23,14 +25,15 @@ In-game cheat menu for Nine Sols. Press F9 (or L3+R3 on a gamepad), toggle what 
 | Stick or d-pad | move between options |
 | A | select |
 | B | close |
-| Left / right | adjust the multipliers |
+| Left / right | adjust the sliders |
 | LB / RB | change tab |
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu.png)
-![abilities](screenshots/02-abilities.png)
-![categories](screenshots/03-categories.png)
-![weapons](screenshots/04-weapons.png)
+![player](screenshots/01-player.png)
+![combat](screenshots/02-combat.png)
+![world](screenshots/03-world.png)
+![abilities](screenshots/04-abilities.png)
+![settings](screenshots/05-settings.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
