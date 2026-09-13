@@ -4,17 +4,19 @@
 
 ![cover](screenshots/00-hero.png)
 
-Multiplies your damage and health (2x-10x), with optional infinite health and damage. In-game menu on F7 or L3+R3 on a gamepad.
+Multiplies your damage and health (x1 to x10, or infinite). In-game menu on F7 or L3+R3 on a gamepad.
 
 ## ✨ Features
+- Tabbed menu: Player, Chalice, Weapons, Supers & Charms, Coins, Settings
 - Full gamepad control, no mouse needed (see Controls below)
-- Damage & health 2x-10x
-- Optional infinite health / damage
+- One slider per stat: x1 is the normal game, x2 to x10, INF at the end
 - Infinite super, jump and coins
+- Play as Ms. Chalice per player (DLC)
+- Every weapon, super and charm by its shop name in the game's language, unlock and lock back
 - Boss health bar with the boss portrait, updates as you hit
-- Items tab: every weapon, super and charm by its shop name in the game's language, unlock and lock back
 - Menu and boss bar scale with the screen, with size sliders
-- Hotkeys or controller, live config reload
+- Rebind every hotkey and controller shortcut in the Settings tab, reset to defaults
+- Live config reload
 
 ## 🎮 Controls
 | Input | Action |
@@ -29,9 +31,13 @@ Multiplies your damage and health (2x-10x), with optional infinite health and da
 Your character stays put while the menu is open.
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu.png)
-![items](screenshots/02-items.png)
-![boss hud](screenshots/03-boss-hud.jpg)
+![player](screenshots/01-player.png)
+![chalice](screenshots/02-chalice.png)
+![weapons](screenshots/03-weapons.png)
+![supers and charms](screenshots/04-supers-charms.png)
+![coins](screenshots/05-coins.png)
+![settings](screenshots/06-settings.png)
+![boss hud](screenshots/07-boss-hud.jpg)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
