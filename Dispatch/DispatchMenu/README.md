@@ -9,15 +9,17 @@ In-game cheat menu for Dispatch, styled like the SDN screens. Works on keyboard 
 ## ✨ Features
 - **Heroes**: motivated, instant rest, never rests, XP on/off, XP multiplier, give XP, level up now, stat points, max level, sabotage immune, never refuses, rally, clear negative status, heal injuries, inflict injury. One hero or all at once.
 - **Stats**: combat, mobility, vigor, charisma, intellect with +/- per hero, all to 10 or back to 1.
-- **Shift**: game speed x1-x8, force the current call to success/fail/miss, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift.
+- **Powers**: reveal, learn or forget each power of a hero, or reveal all powers at once.
+- **Shift**: game speed x1-x8 (back to x1 when you enter a shift or a hack), force the current call to success/fail/miss, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift.
 - **Hacking**: extra life, no fail on time out, finish the hacking with success.
 - **Story**: skip the current scene, skip to the next choice, auto-win QTEs, list of the game's story variables (hero/anti-hero, mentor, romance, flags) with editable flags and counters.
+- **Enable mod** switch at the bottom of the menu turns every cheat off and back on.
 - Toggles and the menu hotkey (`hotkey=F2`) are saved to `settings.txt` next to the mod and restored on the next launch.
 - English and Brazilian Portuguese, picked from the game language.
 
 ## 🎮 Controls
 - Open: `F2` or `LB+RB`. Close: `B`, `Esc` or `F2`.
-- Move and change values: right stick or arrow keys. Select: `X` or `Enter`. Tabs: `LB`/`RB`, `LT`/`RT`, `Q`/`E`.
+- Move and change values: right stick or arrow keys. Select: `X` or `Enter`. Tabs: `LB`/`RB`, `LT`/`RT`, `Q`/`E`. Enable mod and Close sit below the last option.
 - D-pad and left stick are eaten by the game UI, so the menu uses the right stick.
 
 ## 📦 Install
