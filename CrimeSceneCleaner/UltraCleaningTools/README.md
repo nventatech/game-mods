@@ -7,9 +7,9 @@
 Bigger cleaning area, sprays and liquids never run out, infinite power washer water and infinite trash bag capacity. One menu for everything: F9 or L3+R3 on a gamepad.
 
 ## ✨ Features
-- In-game menu on F9 (change the key with `MenuKey` in `UserData/MelonPreferences.cfg`), draggable and scalable
+- In-game menu on F9 with tabs on the left (change the key with `MenuKey` in `UserData/MelonPreferences.cfg`), draggable and scalable
 - Full gamepad control (see Controls below)
-- Bigger cleaning area
+- Cleaning radius slider, x1 (normal) to x16
 - Sprays & liquids never run out
 - Infinite washer water - backpack too
 - Infinite trash bag capacity
@@ -26,9 +26,17 @@ Bigger cleaning area, sprays and liquids never run out, infinite power washer wa
 | Left stick or arrows | move between options |
 | A | select |
 | B | close |
+| LB / RB | change tab |
 | Left / right | adjust sliders |
 
 Your character stays put while the menu is open. Window position is remembered.
+
+## 📸 Screenshots
+![cleaning](screenshots/01-cleaning.png)
+![player](screenshots/02-player.png)
+![progress](screenshots/03-progress.png)
+![mission](screenshots/04-mission.png)
+![settings](screenshots/05-settings.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
