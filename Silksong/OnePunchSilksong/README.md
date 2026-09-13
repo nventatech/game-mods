@@ -9,9 +9,10 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 ## ✨ Features
 - In-game menu on F9, everything live
 - Full gamepad control, no mouse needed (see Controls below)
-- Damage up to one-hit kill: global, needle, silk skills, or per tool and skill
+- Damage sliders from x0.1 to x10 and one-hit kill, 0.1 steps: global, needle, silk skills, or per tool and skill
 - Fast attacks, no skill delay, infinite tool uses, extra tool slots
 - Tool effects without owning or equipping, one switch per tool
+- Tabs in a column on the left: Player, Combat, Tools, Crests, Economy, Abilities, Fast travel, Map, Fleas, Items, Teleport, Settings
 - Tool list with type sub-tabs (LT/RT) and color-coded names; crests in their own tab
 - Immortality, infinite jumps, dash & silk
 - Move speed, sprint speed and game speed sliders
@@ -33,17 +34,21 @@ In-game cheat menu for Hollow Knight: Silksong. Press F9 (or L3+R3 on a gamepad)
 | LB / RB | change tab |
 | Left / right | adjust sliders and cycle modes |
 
-Every key and the gamepad combo can be rebound in the menu itself ("Edit keys" in the General tab).
+Every key and the gamepad combo can be rebound in the menu itself (Settings tab).
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu-v4.png)
-![abilities](screenshots/02-abilities-v4.png)
-![tools](screenshots/03-tools-v4.png)
-![crests](screenshots/04-crests-v4.png)
-![fast travel](screenshots/05-fasttravel-v4.png)
-![map](screenshots/06-map-v4.png)
-![fleas](screenshots/07-fleas-v4.png)
-![items](screenshots/08-items-v4.png)
+![player](screenshots/01-player-v5.png)
+![combat](screenshots/02-combat-v5.png)
+![tools](screenshots/03-tools-v5.png)
+![crests](screenshots/04-crests-v5.png)
+![economy](screenshots/05-economy-v5.png)
+![abilities](screenshots/06-abilities-v5.png)
+![fast travel](screenshots/07-fasttravel-v5.png)
+![map](screenshots/08-map-v5.png)
+![fleas](screenshots/09-fleas-v5.png)
+![items](screenshots/10-items-v5.png)
+![teleport](screenshots/11-teleport-v5.png)
+![settings](screenshots/12-settings-v5.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
