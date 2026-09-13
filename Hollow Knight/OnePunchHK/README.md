@@ -9,7 +9,8 @@ In-game cheat menu for Hollow Knight. Press F9 (or L3+R3 on a gamepad), toggle w
 ## ✨ Features
 - In-game menu on F9, everything live
 - Full gamepad control, no mouse needed (see Controls below)
-- Nail & spells up to one-hit kill
+- Damage sliders from x0.1 to x10 and one-hit kill: all hits, nail or spells, with 0.1 fine steps
+- Tabs in a column on the left: Player, Combat, Charms, Economy, Abilities, Stags, Map, Grubs, Items, Teleport, Settings
 - Quick slash, long nail range, fast dream nail
 - Immortality, infinite jumps & soul, unbreakable charms, no dash cooldown
 - Move speed and game speed sliders
@@ -18,7 +19,8 @@ In-game cheat menu for Hollow Knight. Press F9 (or L3+R3 on a gamepad), toggle w
 - Save position, teleport back to it, return to the last bench
 - Charm effects without owning, equipping or notches (Effect switch per charm)
 - Change charms anywhere, no bench needed
-- Tabs for charms, abilities, stags, map, grubs and items, every entry with its own switch
+- Every charm, ability, stag, map chart, grub and item with its own switch
+- Teleport tab: every room in the game by area, with search
 - Masks and soul vessels editors
 - Key rebinding inside the menu and a scale slider for big screens
 
@@ -33,13 +35,17 @@ In-game cheat menu for Hollow Knight. Press F9 (or L3+R3 on a gamepad), toggle w
 | LB / RB | change tab |
 
 ## 📸 Screenshots
-![menu](screenshots/01-menu-v2.png)
-![charms](screenshots/02-charms-v2.png)
-![abilities](screenshots/03-abilities-v2.png)
-![stags](screenshots/04-stags-v2.png)
-![map](screenshots/05-map-v2.png)
-![grubs](screenshots/06-grubs.png)
-![items](screenshots/07-items.png)
+![player](screenshots/01-player-v3.png)
+![combat](screenshots/02-combat-v3.png)
+![charms](screenshots/03-charms-v3.png)
+![economy](screenshots/04-economy-v3.png)
+![abilities](screenshots/05-abilities-v3.png)
+![stags](screenshots/06-stags-v3.png)
+![map](screenshots/07-map-v3.png)
+![grubs](screenshots/08-grubs-v3.png)
+![items](screenshots/09-items-v3.png)
+![teleport](screenshots/10-teleport-v3.png)
+![settings](screenshots/11-settings-v3.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
