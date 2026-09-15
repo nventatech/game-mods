@@ -101,6 +101,11 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 |-----|-----------|----------|
 | [CustodianMenu](CryptCustodian/CustodianMenu) | Aurie + YYToolkit (C++) | [GitHub](CryptCustodian/CustodianMenu) |
 
+### Hades
+| Mod | Framework | Download |
+|-----|-----------|----------|
+| [HadesPowerMod](Hades/HadesPowerMod) | Mod Importer + Mod Utility (Lua) | [GitHub](Hades/HadesPowerMod) |
+
 ## ❤️ Support
 
 If a mod helped you, consider [donating via PayPal](https://www.paypal.com/donate/?business=SR28XBBCYSPHE&no_recurring=0&item_name=Help+me+buy+a+coffee.&currency_code=USD).
