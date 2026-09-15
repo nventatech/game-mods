@@ -104,7 +104,7 @@ Release zips and screenshots for my published game mods. Source lives locally, n
 ### Hades
 | Mod | Framework | Download |
 |-----|-----------|----------|
-| [HadesPowerMod](Hades/HadesPowerMod) | Mod Importer + Mod Utility (Lua) | [GitHub](Hades/HadesPowerMod) |
+| [HadesPowerMod](Hades/HadesPowerMod) | Mod Importer + Mod Utility (Lua) | [240](https://www.nexusmods.com/hades/mods/240) |
 
 ## ❤️ Support
 

@@ -1,6 +1,6 @@
 # Hades Power Mod
 
-[![Download](https://img.shields.io/badge/Download-HadesPowerMod--1.0.0.zip-2ea44f?logo=github)](https://github.com/nventatech/game-mods/raw/main/Hades/HadesPowerMod/HadesPowerMod-1.0.0.zip)
+[![Nexus Mods](https://img.shields.io/badge/Hades-Nexus%20Mods-E6832B?logo=nexusmods&color=E6832B&label=Nexus%20Mods)](https://www.nexusmods.com/hades/mods/240)
 
 ![cover](screenshots/00-hero.png)
 
@@ -27,6 +27,7 @@ In-game power menu for Hades, drawn with the game's own screens. Press R and G t
 Needs [Mod Importer](https://www.nexusmods.com/hades/mods/26) and [Mod Utility](https://www.nexusmods.com/hades/mods/27). Extract the zip into `Hades/Content/Mods` (you get `Content/Mods/HadesPowerMod/modfile.txt`), run `modimporter` from `Content`, start the game. Update or remove: change the folder and run `modimporter` again.
 
 ## 🔗 Links
+- Mod page: https://www.nexusmods.com/hades/mods/240
 - All my mods: https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods
 - Source & releases: https://github.com/nventatech/game-mods
 
