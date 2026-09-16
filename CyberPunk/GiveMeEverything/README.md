@@ -8,7 +8,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 
 ## ✨ Features
 - Controller menu drawn by the mod (RB+Y or F7), keyboard works too, same tabs
-- Info panel that explains every option, nine color themes, settings backup and restore
+- Info panel that explains every option, nine color themes, settings backup and restore, icons on every tab and section, status window with level, cred, eddies and points
 - Any item, any rarity - 15 tabs with sub-tabs and item counts
 - Modded sub-tab in Clothes, Weapons, Cyberware and Vehicles: only items from other mods, grouped by mod; wardrobe can register modded pieces only; search has a mods-only toggle
 - Option search across every tab, right-click to pin rows, Active tab, tab bar left or top, hide unused tabs, compact mode
