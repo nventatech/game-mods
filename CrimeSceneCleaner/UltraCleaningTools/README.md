@@ -13,11 +13,16 @@ Bigger cleaning area, sprays and liquids never run out, infinite power washer wa
 - Sprays & liquids never run out
 - Infinite washer water - backpack too
 - Infinite trash bag capacity
+- Infinite flashlight battery
+- Cleaner sense (Q) never expires and has no cooldown
 - Movement speed multiplier
 - Add or remove skill and hazard points
 - Money and XP multiplier
 - Freeze the mission timer
 - Never fail lockpicking or hacking
+- Abandon the mission from the menu
+- Unlocks tab: every perk and every skin with its own checkbox, plus unlock all / reset all
+- Enable mod switch in the footer
 
 ## 🎮 Controls
 | Input | Action |
@@ -25,18 +30,19 @@ Bigger cleaning area, sprays and liquids never run out, infinite power washer wa
 | F9 / L3+R3 | open and close the menu (keyboard key set by `MenuKey` in `UserData/MelonPreferences.cfg`, any Unity KeyCode name) |
 | Left stick or arrows | move between options |
 | A | select |
-| B | close |
+| B | collapse the tabs, then close |
 | LB / RB | change tab |
 | Left / right | adjust sliders |
 
-Your character stays put while the menu is open. Window position is remembered.
+Click the open tab to collapse the menu to the tab column. Your character stays put while the menu is open. Window position, last tab and collapsed state are remembered.
 
 ## 📸 Screenshots
 ![cleaning](screenshots/01-cleaning.png)
 ![player](screenshots/02-player.png)
 ![progress](screenshots/03-progress.png)
 ![mission](screenshots/04-mission.png)
-![settings](screenshots/05-settings.png)
+![unlocks](screenshots/05-unlocks.png)
+![settings](screenshots/06-settings.png)
 
 ## 🌍 Translating
 Texts live in `I18n.cs`, one dictionary per language keyed by the English string. To add a
