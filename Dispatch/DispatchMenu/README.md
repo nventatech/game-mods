@@ -10,7 +10,7 @@ In-game cheat menu for Dispatch, styled like the SDN screens. Works on keyboard 
 - **Heroes**: motivated, instant rest, never rests, XP on/off, XP multiplier, give XP, level up now, stat points, max level, sabotage immune, never refuses, rally, clear negative status, heal injuries, inflict injury. One hero or all at once.
 - **Stats**: combat, mobility, vigor, charisma, intellect with +/- per hero, all to 10 or back to 1.
 - **Powers**: learn or forget each power of a hero, or reveal the starting powers at once.
-- **Shift**: game speed x1-x8 (back to x1 when you enter a shift or a hack; above x1 can break scripted calls), force the current call to success/fail/miss, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift.
+- **Shift**: game speed x1-x8 (back to x1 when you enter a shift or a hack; above x1 can break scripted calls), pick any active call and force it to success/fail/miss, or set one result for every call, reveal the stat requirements of every call, abort the call, auto sabotage on/off, end the shift, force close a stuck popup (also runs by itself).
 - **Hacking**: extra life, no fail on time out, finish the hacking with success.
 - **Story**: skip the current scene, skip to the next choice, auto-win QTEs, list of the game's story variables (hero/anti-hero, mentor, romance, flags) with editable flags and counters.
 - **Enable mod** switch at the bottom of the menu turns every cheat off and back on.
