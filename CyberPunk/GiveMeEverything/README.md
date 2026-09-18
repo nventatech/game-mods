@@ -19,7 +19,7 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - Bullet time, status effects, Breach Protocol options, base stats, sell or disassemble in Cleanup
 - Loot filter: block junk by category and tier, up to 5++
 - Auto-loot: empty bodies and containers from a distance, markers included - all the time, on the interact key or only on your own CET keybind
-- Checklists: every perk shard and set clothing piece with teleport, map pin and directions; origin of every iconic weapon
+- Checklists: every perk shard and set clothing piece with teleport, map pin and directions; Dogtown relic terminals and Cyberjunkies; teleport to every tarot graffiti; origin of every iconic weapon
 - Vehicle light colour and brightness, rainbow lights, infinite missiles, instant enter
 - God mode, XP/damage multipliers, cyberware duration and slow-mo sliders, quickhack/run speed/crafting tweaks, extra cyberware capacity, level cap 100, unlocks
 - Teleport to waypoint, saved spot or quest objective, fast travel, spawn any vehicle in front of you
@@ -30,13 +30,13 @@ All-in-one cheat panel for CET: any item at any rarity, god mode, multipliers, t
 - 8 languages: EN, PT-BR, ES, FR, DE, RU, ZH-CN, PL (RU and ZH need a CET font setting, the mod shows how)
 
 ## 📸 Screenshots
-![screenshot](screenshots/08-cheats-survival.png)
-![screenshot](screenshots/17-clothing.png)
-![screenshot](screenshots/09-cheats-combat.png)
-![screenshot](screenshots/16-weapons.png)
-![screenshot](screenshots/19-vehicles.png)
-![screenshot](screenshots/20-travel-teleport.png)
-![screenshot](screenshots/27-story-quests.png)
+![screenshot](screenshots/06-cheats.png)
+![screenshot](screenshots/04-items.png)
+![screenshot](screenshots/08-weapons.png)
+![screenshot](screenshots/09-clothing.png)
+![screenshot](screenshots/11-vehicles.png)
+![screenshot](screenshots/12-travel.png)
+![screenshot](screenshots/15-story.png)
 
 ## 📦 Install
 Download on [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/31460). Extract into the game root folder (the one with `bin`, `archive`, `r6`) or install with Vortex / Mod Organizer 2.
