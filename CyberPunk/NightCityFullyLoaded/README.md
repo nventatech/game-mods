@@ -13,18 +13,19 @@ Everything here is installed and played, not just collected. No half-tested pick
 ## 🎮 Gameplay
 
 - **Cyberware Improved** rewrites what every implant does, so the ripperdoc screen stops being a stat comparison and starts being a decision.
+- **Weapons Improved** and the rest of that series (weapon mods, suppressors, muzzles, armor, clothing, ladders) do the same for the gear, and **Slots Slots Slots** gives every weapon four mod slots.
 - **Night City Alive** and **Dynamic Wanted Stars** handle the street. More going on around you, and the police stop teleporting into your back seat.
 - **Enhanced Craft**, **Equipment-EX** and **Revised Backpack** fix the inventory. Extra slots, real sorting, and a stash you can search.
 - **Deceptious Quest Core** and **ReImagined** add the content and the systems rework. Between the two there is a lot to find on a second run.
-- **Pre-2.0 Skill Checks** and **New Level Cap** bring back attribute gating and push the ceiling. If you hated the 2.0 flattening, start here.
+- **Pre-2.0 Skill Checks** brings back attribute gating. If you hated the 2.0 flattening, start here.
 - **Idle Anywhere** with the radial upgrade. Sit, eat, drink, smoke, anywhere. Pure roleplay, zero mechanical value, and I use it constantly.
 - **Give Me Everything**, **Drone Companion**, **Quest Guide**, **Find My Ride**, **Best In Slot** and **Unequip Mods** are my own. Cheats, a companion drone, quest hints, and inventory tools that the base game should have shipped with.
 - **Always First Equip**, **Immersive Timeskip**, **Auto Drive Enhanced** and **No Intro Videos** for the small stuff that adds up over a hundred hours.
 
 ## 🖥 Interface
 
-- **Native Settings UI** and **Redscript And CET Mods Settings** put every mod option in one menu instead of eleven overlays.
-- **Virtual Atelier** with the brand stores and the delivery add-on. Shop from anywhere, get it delivered.
+- **Unified Mod Settings** puts every mod option in one searchable menu instead of eleven overlays.
+- **Virtual Atelier** with the brand stores. Shop from anywhere.
 - **Better Loot Markers**, **Inventory Sorting Improved** and **Auto Sort By Quality** cut the busywork out of looting.
 - **Breach Protocol Automated** solves the minigame. After three hundred breaches it stops being a puzzle.
 - **Stash and Backpack Search** and **Vendor Search** put a text box where the game only gave you filters. **Sort Ripperdoc Inventory**, **Quickhacks sort by slot** and **Quickhack Hotkeys** do the same for cyberware and the deck.
@@ -35,7 +36,7 @@ Everything here is installed and played, not just collected. No half-tested pick
 ## 🎨 Visuals
 
 - The full **MonstrrMagic** texture series at 2K, covering NPCs, clothing, skins, hair, posters, graffiti and surfaces. 2K and not 4K on purpose, since the gain past that is invisible in motion and the VRAM is better spent on path tracing.
-- **HD Reworked Project** on Balanced, plus **ETO** at 4K for environment textures.
+- **HD Reworked Project** on Balanced, plus **ETO** at 2K for environment textures.
 - **Ultra Plus** for path tracing tuning, with **Nova LUT**, **Preem Rain** and **Preem Water** on the weather and color side.
 - **More Occluders** and **Blur Begone** on the performance and clarity side.
 - **Improved Vegetation LODs**, **Improved Environment LODs**, **Improved Vehicle Lights Draw Distance**, **Better Building Windows** and **Disappearing NPC and Vehicle Fix** push detail further out. Pop-in was the last thing that still looked last-gen.
@@ -49,6 +50,8 @@ CDPR left a lot on the table after 2.3. This block is pure bug fixing, no gamepl
 - **Quest Trigger Fixes**, **Quickhack Fixes**, **NCPD Fixes**, **Fluff Vendor Fixes**, **Item Records Fixes** and **Database Fixes** for the systems.
 - **HUD Fixes**, **Status Bar Bug Fixes**, **Disappearing Enemy Health Bar Fix**, **RAM bar fix** and **Bounty class stars bug fix** for the interface.
 - **General Shadows Fixes**, **Light Beams Fix**, **Decals Flickering Fix**, **Particles Flickering Fix**, **Effects Rendering Fix**, **No More Milky Glass** and **Cyberarms Patch** for the rendering.
+- **Sandevistan fixes**, **Enemies Melee Attacks Fixes** and **Throwing Weapon Bug Fix** for combat.
+- **Vehicle Explosion Crash Fix** for stability, and **REDscope** writes a readable report if the game ever crashes.
 - **Fixed NPC Vehicle Reactions**, **NPC Actions Stutter Fix**, **Vehicle Exit Fix**, **Impact Kill Looting Fix**, **Facial Customisation Rig Fix** and a handful of smaller ones for everything else.
 
 ## 📦 Installation
@@ -78,21 +81,28 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | BetterLootMarkers 1.4.0 | rodikh | [3486](https://www.nexusmods.com/cyberpunk2077/mods/3486) |
 | Clear Skill Checks | RMK | [2805](https://www.nexusmods.com/cyberpunk2077/mods/2805) |
 | Crafting recipe owned and iconic labels | RMK | [11261](https://www.nexusmods.com/cyberpunk2077/mods/11261) |
+| crafting_component_quantity_text | nobo | [17266](https://www.nexusmods.com/cyberpunk2077/mods/17266) |
 | Custom Map Markers | DJ_Kovrik | [3819](https://www.nexusmods.com/cyberpunk2077/mods/3819) |
 | Cyberware Screen Tooltip Fix | Tremox | [23615](https://www.nexusmods.com/cyberpunk2077/mods/23615) |
 | Description Revival | RetchERezzed | [28124](https://www.nexusmods.com/cyberpunk2077/mods/28124) |
 | EddiesNotificationFix 1.01 | Atticus | [16420](https://www.nexusmods.com/cyberpunk2077/mods/16420) |
+| Enterable Interiors 3.1 | Halliphax2 | [13209](https://www.nexusmods.com/cyberpunk2077/mods/13209) |
 | Extended Vehicle Call Menu - Patch 1 | Barfunkle999 | [23402](https://www.nexusmods.com/cyberpunk2077/mods/23402) |
 | Filter Saves | RMK | [3400](https://www.nexusmods.com/cyberpunk2077/mods/3400) |
+| FinishedQuestsSorted-1.01 | Atticus | [16009](https://www.nexusmods.com/cyberpunk2077/mods/16009) |
 | HUD Fixes - fix disappearing HUD element and quest dialogs - HUD Fixes | anygoodname | [4011](https://www.nexusmods.com/cyberpunk2077/mods/4011) |
 | Immersive Timeskip | DJ_Kovrik | [5115](https://www.nexusmods.com/cyberpunk2077/mods/5115) |
 | Improved NCPD Map Filters | v1ld | [17488](https://www.nexusmods.com/cyberpunk2077/mods/17488) |
+| InformativeHealthbar | Scream81 | [29625](https://www.nexusmods.com/cyberpunk2077/mods/29625) |
 | Inventory Adjustments Hub 1.4 | svarmod | [19632](https://www.nexusmods.com/cyberpunk2077/mods/19632) |
 | Inventory Sorting Improved | Tremox | [23628](https://www.nexusmods.com/cyberpunk2077/mods/23628) |
 | Kiroshi Crowd Scanner | Alien and BadAssGodFather | [1654](https://www.nexusmods.com/cyberpunk2077/mods/1654) |
 | Looting QoL | Demon9ne | [14730](https://www.nexusmods.com/cyberpunk2077/mods/14730) |
+| LootQuantityText-1.1 | Atticus | [23942](https://www.nexusmods.com/cyberpunk2077/mods/23942) |
+| Map Search | Deceptious | [26222](https://www.nexusmods.com/cyberpunk2077/mods/26222) |
+| Map Waypoint Bug Fixes | Spuddeh | [32175](https://www.nexusmods.com/cyberpunk2077/mods/32175) |
 | mod_settings_v0.2.21.zip | Jack Humbert | [4885](https://www.nexusmods.com/cyberpunk2077/mods/4885) |
-| Native Settings UI Side Menu Add-on | anygoodname | [16218](https://www.nexusmods.com/cyberpunk2077/mods/16218) |
+| More Weapon Filters | Sobakasu13602 | [16565](https://www.nexusmods.com/cyberpunk2077/mods/16565) |
 | No Intro Videos - redscript | DJ_Kovrik | [533](https://www.nexusmods.com/cyberpunk2077/mods/533) |
 | No More Hard-Coded Keybinds | heero139 | [4008](https://www.nexusmods.com/cyberpunk2077/mods/4008) |
 | Numerals Get Commas | Woodie | [17160](https://www.nexusmods.com/cyberpunk2077/mods/17160) |
@@ -101,19 +111,26 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | RAMbarfix | Scream81 | [22503](https://www.nexusmods.com/cyberpunk2077/mods/22503) |
 | Read All Shards 1.5.9 | anygoodname | [8980](https://www.nexusmods.com/cyberpunk2077/mods/8980) |
 | Real Vendor Names | DJ_Kovrik | [4941](https://www.nexusmods.com/cyberpunk2077/mods/4941) |
-| Redscript And Cet Mods Settings | anygoodname | [20779](https://www.nexusmods.com/cyberpunk2077/mods/20779) |
 | Revised Backpack | DJ_Kovrik | [17642](https://www.nexusmods.com/cyberpunk2077/mods/17642) |
+| Show Me How Many | Gigowatt221 | [22744](https://www.nexusmods.com/cyberpunk2077/mods/22744) |
+| Smaller Cyberware Slots (6x2) | Trendal | [24409](https://www.nexusmods.com/cyberpunk2077/mods/24409) |
 | Sort Ripperdoc Inventory | v1ld | [17630](https://www.nexusmods.com/cyberpunk2077/mods/17630) |
 | Speedometer Fixes | Grapjasss | [9713](https://www.nexusmods.com/cyberpunk2077/mods/9713) |
 | Stash Filters | DJ_Kovrik | [5298](https://www.nexusmods.com/cyberpunk2077/mods/5298) |
 | Stash Search | DJ_Kovrik | [14264](https://www.nexusmods.com/cyberpunk2077/mods/14264) |
+| Status Effects Hotkey | Sirrus233 | [24681](https://www.nexusmods.com/cyberpunk2077/mods/24681) |
+| Stop spam CET v1.2.4 | anygoodname | [3801](https://www.nexusmods.com/cyberpunk2077/mods/3801) |
+| Unified Mod Settings | Q | [28308](https://www.nexusmods.com/cyberpunk2077/mods/28308) |
+| Unique Iconic Cyberware Icons | Emperia | [26445](https://www.nexusmods.com/cyberpunk2077/mods/26445) |
 | untrackQuestByRightClick | Angelore | [5177](https://www.nexusmods.com/cyberpunk2077/mods/5177) |
 | Vendor Search | deceptious | [26188](https://www.nexusmods.com/cyberpunk2077/mods/26188) |
 
 ### Gameplay
 | Mod | Author | Nexus |
 |-----|--------|-------|
+| 4 More Weapon Mod Slots | dnbnhlp | [21644](https://www.nexusmods.com/cyberpunk2077/mods/21644) |
 | Always First Equip | DJ_Kovrik | [2557](https://www.nexusmods.com/cyberpunk2077/mods/2557) |
+| Armor Improved - 30 percent effectiveness | RelaxItsOk | [27503](https://www.nexusmods.com/cyberpunk2077/mods/27503) |
 | auto_drive_enhanced | nobo | [23157](https://www.nexusmods.com/cyberpunk2077/mods/23157) |
 | Automatic Junk Scrapper Perk | anygoodname | [17364](https://www.nexusmods.com/cyberpunk2077/mods/17364) |
 | Base Fists and Arm Cyberware Attack Speed Fix | Metool | [14130](https://www.nexusmods.com/cyberpunk2077/mods/14130) |
@@ -122,6 +139,7 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Borg Malorian | Seijax | [9213](https://www.nexusmods.com/cyberpunk2077/mods/9213) |
 | Breach Protocol Automated | xxEbonLordxx | [29992](https://www.nexusmods.com/cyberpunk2077/mods/29992) |
 | Bug Fix - Full-Auto Tech Weapons Bolt Duration - Senkoh LX Bolt Fix | Metool | [14053](https://www.nexusmods.com/cyberpunk2077/mods/14053) |
+| Clothing Improved - TweakXL | RelaxItsOk | [27196](https://www.nexusmods.com/cyberpunk2077/mods/27196) |
 | Comrade Restored | Seijax | [9707](https://www.nexusmods.com/cyberpunk2077/mods/9707) |
 | Cyberpunk Story Quest Fixes | anygoodname | [29152](https://www.nexusmods.com/cyberpunk2077/mods/29152) |
 | Cyberware Improved | RelaxItsOk | [23554](https://www.nexusmods.com/cyberpunk2077/mods/23554) |
@@ -134,15 +152,19 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | DroneCompanion 5.4.0 | opaaaaaaaaaaaa | [32572](https://www.nexusmods.com/cyberpunk2077/mods/32572) |
 | dynamic_wanted_stars_v1.0 | MisterChedda | [15449](https://www.nexusmods.com/cyberpunk2077/mods/15449) |
 | Economy Tweaks and Balance | Zako1989 | [14161](https://www.nexusmods.com/cyberpunk2077/mods/14161) |
+| Enemies Melee Attacks Fixes | sosuine | [32747](https://www.nexusmods.com/cyberpunk2077/mods/32747) |
+| Enemy Rarity Fixes Improved | RelaxItsOk | [30958](https://www.nexusmods.com/cyberpunk2077/mods/30958) |
 | Faster Checkpoints | Deceptious | [9724](https://www.nexusmods.com/cyberpunk2077/mods/9724) |
 | Faster Elevators | Cosmin G | [18389](https://www.nexusmods.com/cyberpunk2077/mods/18389) |
 | finisherfix | nightmerea and rfuzzo | [11453](https://www.nexusmods.com/cyberpunk2077/mods/11453) |
 | FixStaticTakeoutCups | sosuinepsixuyu | [11729](https://www.nexusmods.com/cyberpunk2077/mods/11729) |
+| FixThrowingWeaponBug | ilyin1 | [25830](https://www.nexusmods.com/cyberpunk2077/mods/25830) |
 | Flashback Fixer | jack | [16236](https://www.nexusmods.com/cyberpunk2077/mods/16236) |
 | Fluff Vendor Fixes | Deceptious | [27795](https://www.nexusmods.com/cyberpunk2077/mods/27795) |
 | Game v2.0 patch - No Forced Weapon On Carrying Bodies - Reds.A. No ini | anygoodname | [9223](https://www.nexusmods.com/cyberpunk2077/mods/9223) |
 | H10ApartmentDoorInteractionRestored | yakuzadeso | [31955](https://www.nexusmods.com/cyberpunk2077/mods/31955) |
 | Holdin' On - Kerrys' mansion scene bug fixes 1.0.0 | anygoodname | [25792](https://www.nexusmods.com/cyberpunk2077/mods/25792) |
+| Hp Tweaks - Weapons Improved | RelaxItsOk | [30958](https://www.nexusmods.com/cyberpunk2077/mods/30958) |
 | Idle Anywhere | Deceptious | [8038](https://www.nexusmods.com/cyberpunk2077/mods/8038) |
 | Immersion patch - The Hunt quest missing audio restore - sq021_randy_p | anygoodname | [7413](https://www.nexusmods.com/cyberpunk2077/mods/7413) |
 | Immersive First Person | Bonaniki | [2675](https://www.nexusmods.com/cyberpunk2077/mods/2675) |
@@ -152,6 +174,9 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | In Cold Blood Fix | Demon9ne | [14880](https://www.nexusmods.com/cyberpunk2077/mods/14880) |
 | in_world_navigation_v0.1.20.zip | Jack Humbert | [4583](https://www.nexusmods.com/cyberpunk2077/mods/4583) |
 | Junk In The Trunk - Wardrobe Access | Darkcopse | [5339](https://www.nexusmods.com/cyberpunk2077/mods/5339) |
+| Ladders Improved - Stamina Fix | RelaxItsOk | [31318](https://www.nexusmods.com/cyberpunk2077/mods/31318) |
+| Ladders Improved TweakXL | RelaxItsOk | [31318](https://www.nexusmods.com/cyberpunk2077/mods/31318) |
+| LostContent | MisterChedda | [31523](https://www.nexusmods.com/cyberpunk2077/mods/31523) |
 | Melee Attacks Fixes And Enhancements | sosuinepsixuyu | [16921](https://www.nexusmods.com/cyberpunk2077/mods/16921) |
 | Minor Activities Quest Fixes | anygoodname | [27162](https://www.nexusmods.com/cyberpunk2077/mods/27162) |
 | Missing Persons - Fixer's Hidden Gems | Darkcopse | [5058](https://www.nexusmods.com/cyberpunk2077/mods/5058) |
@@ -175,24 +200,35 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Quick Message Exit CET 1.0.3 | anygoodname | [9377](https://www.nexusmods.com/cyberpunk2077/mods/9377) |
 | Quickhack Fixes | The guy posting it | [18290](https://www.nexusmods.com/cyberpunk2077/mods/18290) |
 | Quickhacks sort by slot | nobo | [11425](https://www.nexusmods.com/cyberpunk2077/mods/11425) |
+| QuickMelee Sandevistan Fix | dnbnhlp | [29636](https://www.nexusmods.com/cyberpunk2077/mods/29636) |
 | QuickSlot and Consumables Bug Fix 2.1 | CDPR and Me | [10811](https://www.nexusmods.com/cyberpunk2077/mods/10811) |
 | Recon Grenades Bounce Fix | Metool | [14163](https://www.nexusmods.com/cyberpunk2077/mods/14163) |
 | Ricochet Redux | Seijax | [7197](https://www.nexusmods.com/cyberpunk2077/mods/7197) |
 | RipperDeck | psiberx | [9302](https://www.nexusmods.com/cyberpunk2077/mods/9302) |
+| Sandevistan Aiming Blocked Fix | dnbnhlp | [29636](https://www.nexusmods.com/cyberpunk2077/mods/29636) |
+| Sandevistan Preemptive End Fix | dnbnhlp | [29636](https://www.nexusmods.com/cyberpunk2077/mods/29636) |
 | Second Heart Fix | enowai | [11100](https://www.nexusmods.com/cyberpunk2077/mods/11100) |
 | SemimaruQuestRestartBugFix-1.1 | Atticus | [23031](https://www.nexusmods.com/cyberpunk2077/mods/23031) |
 | Silent Silencers and Throwing Knives | RMK | [4070](https://www.nexusmods.com/cyberpunk2077/mods/4070) |
 | Silver Pixel Cloud Gates Game Bug Patch 1.0.1 | anygoodname | [23573](https://www.nexusmods.com/cyberpunk2077/mods/23573) |
+| Slots Slots Slots - More Weapon Mod Slots - Seijax's Extra Iconics Com | dnbnhlp | [21644](https://www.nexusmods.com/cyberpunk2077/mods/21644) |
 | Smart Gun Lock Speed Fixes | The guy posting it | [21798](https://www.nexusmods.com/cyberpunk2077/mods/21798) |
 | Smooth Movement 1.1 - CET | Jaqueta | [13471](https://www.nexusmods.com/cyberpunk2077/mods/13471) |
 | Sonic Shock Restored | Seijax | [11438](https://www.nexusmods.com/cyberpunk2077/mods/11438) |
 | Stamina Consumption Fix | Lain | [23230](https://www.nexusmods.com/cyberpunk2077/mods/23230) |
+| Stamina Regen Fixes No CET | dnbnhlp | [29547](https://www.nexusmods.com/cyberpunk2077/mods/29547) |
 | Status Bar Bug Fixes | RMK | [4316](https://www.nexusmods.com/cyberpunk2077/mods/4316) |
 | Streaming Bug Workaround | sosuinepsixuyu | [22857](https://www.nexusmods.com/cyberpunk2077/mods/22857) |
 | The Zenitex Military Store | ScorpionTank - Krat0es - Saltypigloaf | [21735](https://www.nexusmods.com/cyberpunk2077/mods/21735) |
 | Untrack Quest Ultimate | anygoodname | [6328](https://www.nexusmods.com/cyberpunk2077/mods/6328) |
+| Us Cracks and Kerry Vanilla Questline Photomode Crash bug Fix (Patch)  | dederara | [32807](https://www.nexusmods.com/cyberpunk2077/mods/32807) |
 | Vehicular Annoyances Patch | sirrus233 | [29587](https://www.nexusmods.com/cyberpunk2077/mods/29587) |
 | Virtual Car Dealer | DJ_Kovrik | [4454](https://www.nexusmods.com/cyberpunk2077/mods/4454) |
+| Weapon Mods Improved | RelaxItsOk | [21127](https://www.nexusmods.com/cyberpunk2077/mods/21127) |
+| Weapon Muzzles Improved | RelaxItsOk | [20970](https://www.nexusmods.com/cyberpunk2077/mods/20970) |
+| Weapon Suppressors Improved | RelaxItsOk | [20926](https://www.nexusmods.com/cyberpunk2077/mods/20926) |
+| Weapons Improved | RelaxItsOk | [22741](https://www.nexusmods.com/cyberpunk2077/mods/22741) |
+| Weapons Improved - Borg Malorian Restored Patch | RelaxItsOk | [22741](https://www.nexusmods.com/cyberpunk2077/mods/22741) |
 
 ### Visuals and Graphics
 | Mod | Author | Nexus |
@@ -344,10 +380,13 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Mod | Author | Nexus |
 |-----|--------|-------|
 | CET Window Manager 2.1.1 | spirit - sprt_ | [18448](https://www.nexusmods.com/cyberpunk2077/mods/18448) |
+| Cyberarms Stutter Fix | sosuinepsixuyu | [28109](https://www.nexusmods.com/cyberpunk2077/mods/28109) |
 | Deceptious Quest Core Utilities and Settings | Deceptious | [24404](https://www.nexusmods.com/cyberpunk2077/mods/24404) |
 | input_loader_v0.2.3.zip | Jack Humbert | [4575](https://www.nexusmods.com/cyberpunk2077/mods/4575) |
 | Material and Texture Override (Legacy) | Nim | [5266](https://www.nexusmods.com/cyberpunk2077/mods/5266) |
 | More Occluders (ArchiveXL) | sosuine | [33136](https://www.nexusmods.com/cyberpunk2077/mods/33136) |
+| REDscope | 0nlyQ | [30739](https://www.nexusmods.com/cyberpunk2077/mods/30739) |
+| Vehicle Explosion Crash Fix v1.0 | sumiteru7 | [32230](https://www.nexusmods.com/cyberpunk2077/mods/32230) |
 | Window Utils (GUI Library - Animation - Grid Alignment) - Window Utils | CyanideX | [26589](https://www.nexusmods.com/cyberpunk2077/mods/26589) |
 
 ### Scripts
@@ -364,6 +403,8 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Codeware | psiberx | [7780](https://www.nexusmods.com/cyberpunk2077/mods/7780) |
 | Cyber Engine Tweaks - CET 1.37.1 - Scripting fixes | yamashi | [107](https://www.nexusmods.com/cyberpunk2077/mods/107) |
 | cybercmd | jac3km4 | [5176](https://www.nexusmods.com/cyberpunk2077/mods/5176) |
+| Extra Stats | dnbnhlp | [29404](https://www.nexusmods.com/cyberpunk2077/mods/29404) |
+| Extra Stats - Redscript Ultility - Sandevistan Helper | dnbnhlp | [29404](https://www.nexusmods.com/cyberpunk2077/mods/29404) |
 | Native Settings UI 1.96 | keanuWheeze | [3518](https://www.nexusmods.com/cyberpunk2077/mods/3518) |
 | RED4ext | WopsS | [2380](https://www.nexusmods.com/cyberpunk2077/mods/2380) |
 | RedData | Rayshader | [14139](https://www.nexusmods.com/cyberpunk2077/mods/14139) |
@@ -383,8 +424,11 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 ### Weapons
 | Mod | Author | Nexus |
 |-----|--------|-------|
+| Buzzsaw VFX Fix | Seijax and Tremox | [23060](https://www.nexusmods.com/cyberpunk2077/mods/23060) |
 | Extra Iconics | Seijax | [15889](https://www.nexusmods.com/cyberpunk2077/mods/15889) |
 | Heavy machine guns audio bug fix - HMG overheat missing sound fix - Hm | yakuzadeso | [31792](https://www.nexusmods.com/cyberpunk2077/mods/31792) |
+| La Chingona Dorada Fix TweakXL | dnbnhlp | [13746](https://www.nexusmods.com/cyberpunk2077/mods/13746) |
+| TruePaxMod_v1.1 | Rivarez | [12002](https://www.nexusmods.com/cyberpunk2077/mods/12002) |
 
 ## ❤️ Support development
 
