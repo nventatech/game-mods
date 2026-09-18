@@ -72,6 +72,7 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 |-----|--------|-------|
 | 1. Disappearing Enemy Health Bar Fix | Valour549 | [19815](https://www.nexusmods.com/cyberpunk2077/mods/19815) |
 | Accurate Speedometer | Joe Parker | [5387](https://www.nexusmods.com/cyberpunk2077/mods/5387) |
+| AdaptiveSliders | DeepBlueFrog | [5075](https://www.nexusmods.com/cyberpunk2077/mods/5075) |
 | Auto Sort By Quality | ByteBlitzer | [22055](https://www.nexusmods.com/cyberpunk2077/mods/22055) |
 | Backpack Search | DJ_Kovrik | [14264](https://www.nexusmods.com/cyberpunk2077/mods/14264) |
 | BetterLootMarkers 1.4.0 | rodikh | [3486](https://www.nexusmods.com/cyberpunk2077/mods/3486) |
@@ -103,8 +104,10 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Redscript And Cet Mods Settings | anygoodname | [20779](https://www.nexusmods.com/cyberpunk2077/mods/20779) |
 | Revised Backpack | DJ_Kovrik | [17642](https://www.nexusmods.com/cyberpunk2077/mods/17642) |
 | Sort Ripperdoc Inventory | v1ld | [17630](https://www.nexusmods.com/cyberpunk2077/mods/17630) |
+| Speedometer Fixes | Grapjasss | [9713](https://www.nexusmods.com/cyberpunk2077/mods/9713) |
 | Stash Filters | DJ_Kovrik | [5298](https://www.nexusmods.com/cyberpunk2077/mods/5298) |
 | Stash Search | DJ_Kovrik | [14264](https://www.nexusmods.com/cyberpunk2077/mods/14264) |
+| untrackQuestByRightClick | Angelore | [5177](https://www.nexusmods.com/cyberpunk2077/mods/5177) |
 | Vendor Search | deceptious | [26188](https://www.nexusmods.com/cyberpunk2077/mods/26188) |
 
 ### Gameplay
@@ -149,12 +152,12 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | In Cold Blood Fix | Demon9ne | [14880](https://www.nexusmods.com/cyberpunk2077/mods/14880) |
 | in_world_navigation_v0.1.20.zip | Jack Humbert | [4583](https://www.nexusmods.com/cyberpunk2077/mods/4583) |
 | Junk In The Trunk - Wardrobe Access | Darkcopse | [5339](https://www.nexusmods.com/cyberpunk2077/mods/5339) |
-| Level 80 CAP | DeepVision | [15659](https://www.nexusmods.com/cyberpunk2077/mods/15659) |
 | Melee Attacks Fixes And Enhancements | sosuinepsixuyu | [16921](https://www.nexusmods.com/cyberpunk2077/mods/16921) |
 | Minor Activities Quest Fixes | anygoodname | [27162](https://www.nexusmods.com/cyberpunk2077/mods/27162) |
 | Missing Persons - Fixer's Hidden Gems | Darkcopse | [5058](https://www.nexusmods.com/cyberpunk2077/mods/5058) |
 | Missing Persons Read Shard Add-On 1.2.4 | anygoodname | [9018](https://www.nexusmods.com/cyberpunk2077/mods/9018) |
 | MovementAndCameraTweaks | sosuinepsixuyu | [4039](https://www.nexusmods.com/cyberpunk2077/mods/4039) |
+| Native Interactions Framework 1.1.3 | keanuWheeze | [21422](https://www.nexusmods.com/cyberpunk2077/mods/21422) |
 | NCPD Fixes | Demon9ne | [22838](https://www.nexusmods.com/cyberpunk2077/mods/22838) |
 | NIGHT CITY ALIVE - NCA Standard Density 2.2.1 | Katane | [10395](https://www.nexusmods.com/cyberpunk2077/mods/10395) |
 | No Crowd panic from devices Reds 1.2.0 | anygoodname | [7353](https://www.nexusmods.com/cyberpunk2077/mods/7353) |
@@ -186,9 +189,9 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Stamina Consumption Fix | Lain | [23230](https://www.nexusmods.com/cyberpunk2077/mods/23230) |
 | Status Bar Bug Fixes | RMK | [4316](https://www.nexusmods.com/cyberpunk2077/mods/4316) |
 | Streaming Bug Workaround | sosuinepsixuyu | [22857](https://www.nexusmods.com/cyberpunk2077/mods/22857) |
+| The Zenitex Military Store | ScorpionTank - Krat0es - Saltypigloaf | [21735](https://www.nexusmods.com/cyberpunk2077/mods/21735) |
 | Untrack Quest Ultimate | anygoodname | [6328](https://www.nexusmods.com/cyberpunk2077/mods/6328) |
 | Vehicular Annoyances Patch | sirrus233 | [29587](https://www.nexusmods.com/cyberpunk2077/mods/29587) |
-| Virtual Atelier Delivery | DJ_Kovrik and e256 | [21482](https://www.nexusmods.com/cyberpunk2077/mods/21482) |
 | Virtual Car Dealer | DJ_Kovrik | [4454](https://www.nexusmods.com/cyberpunk2077/mods/4454) |
 
 ### Visuals and Graphics
@@ -210,6 +213,8 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Eye Adaptation Complete Overhaul - Auto Exposure Fix - Optional Divers | Dravic | [2375](https://www.nexusmods.com/cyberpunk2077/mods/2375) |
 | Fire and Explosions Texture Overhaul (OPTIMIZED) | Keen | [15205](https://www.nexusmods.com/cyberpunk2077/mods/15205) |
 | Fix Flickering Particles | sosuinepsixuyu | [16196](https://www.nexusmods.com/cyberpunk2077/mods/16196) |
+| FX Begone - Complete | CyanideX | [9209](https://www.nexusmods.com/cyberpunk2077/mods/9209) |
+| FX Begone - Phantom Liberty DLC | CyanideX | [9209](https://www.nexusmods.com/cyberpunk2077/mods/9209) |
 | General Shadows Fix | sosuinepxisuyu | [20405](https://www.nexusmods.com/cyberpunk2077/mods/20405) |
 | HD Animated Crosswalks - Emissive 4K Vanilla | curiousrobot | [26972](https://www.nexusmods.com/cyberpunk2077/mods/26972) |
 | High Res Containers - MonstrrMagic Texture Series - Containers 2K | XilaMonstrr | [7998](https://www.nexusmods.com/cyberpunk2077/mods/7998) |
@@ -247,6 +252,7 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 ### Appearance
 | Mod | Author | Nexus |
 |-----|--------|-------|
+| ACU - Character Customization | PotatoOfDoom | [3850](https://www.nexusmods.com/cyberpunk2077/mods/3850) |
 | Appearance Menu Mod | MaximiliumM | [790](https://www.nexusmods.com/cyberpunk2077/mods/790) |
 | Equipment-EX | psiberx and DJ_Kovrik | [6945](https://www.nexusmods.com/cyberpunk2077/mods/6945) |
 | Hair and Beards 2K | XilaMonstrr | [7184](https://www.nexusmods.com/cyberpunk2077/mods/7184) |
@@ -265,9 +271,14 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 ### Armour and Clothing
 | Mod | Author | Nexus |
 |-----|--------|-------|
+| Arasaka Cyberarms | Aanderz | [1099](https://www.nexusmods.com/cyberpunk2077/mods/1099) |
 | BestInSlot - Best Item Marker and One-Key Best Loadout - BestInSlot 1. | opaaaaaaaaaaaa | [31702](https://www.nexusmods.com/cyberpunk2077/mods/31702) |
 | High-Res Clothing 2K | XilaMonstrr | [7301](https://www.nexusmods.com/cyberpunk2077/mods/7301) |
+| Military Accessories - Modular Armor Pads Pack - ArchiveXL (4.0) - Zen | ScorpionTank | [12044](https://www.nexusmods.com/cyberpunk2077/mods/12044) |
+| Military Combat Armor | ScorpionTank - Gorefiend | [13212](https://www.nexusmods.com/cyberpunk2077/mods/13212) |
 | UnequipMods 1.4.0 | opaaaaaaaaaaaa | [31701](https://www.nexusmods.com/cyberpunk2077/mods/31701) |
+| Zenitex Ballistic Mask | ScorpionTank | [12422](https://www.nexusmods.com/cyberpunk2077/mods/12422) |
+| Zenitex Tactical Harness | ScorpionTank | [9774](https://www.nexusmods.com/cyberpunk2077/mods/9774) |
 
 ### Animations
 | Mod | Author | Nexus |
@@ -299,6 +310,17 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | Mod | Author | Nexus |
 |-----|--------|-------|
 | Carjacking Bug Fix Game 2.3x | anygoodname | [33027](https://www.nexusmods.com/cyberpunk2077/mods/33027) |
+| Dodge Challenger SRT Demon | Cornmilf | [12556](https://www.nexusmods.com/cyberpunk2077/mods/12556) |
+| KRNLNIK Audi R8 LBW | Cornmilf | [8827](https://www.nexusmods.com/cyberpunk2077/mods/8827) |
+| KRNLNIK BMW M8 Competition Coupe | Cornmilf | [10397](https://www.nexusmods.com/cyberpunk2077/mods/10397) |
+| KRNLNIK C63S AMG | Cornmilf | [9075](https://www.nexusmods.com/cyberpunk2077/mods/9075) |
+| KRNLNIK Dodge Charger R T | Cornmilf | [13569](https://www.nexusmods.com/cyberpunk2077/mods/13569) |
+| KRNLNIK Lamborghini Aventador SVJ | Cornmilf | [11176](https://www.nexusmods.com/cyberpunk2077/mods/11176) |
+| KRNLNIK Pagani Zonda CInque Roadster | Cornmilf | [8795](https://www.nexusmods.com/cyberpunk2077/mods/8795) |
+| KRNLNIK Porsche 918 Spyder | Cornmilf | [9125](https://www.nexusmods.com/cyberpunk2077/mods/9125) |
+| KRNLNIK RTR Spec 5 | Cornmilf | [8912](https://www.nexusmods.com/cyberpunk2077/mods/8912) |
+| KRNLNIK Toyota Supra MK5 HKS Widebody | Cornmilf | [12652](https://www.nexusmods.com/cyberpunk2077/mods/12652) |
+| Vehicle manufacturer fix - VMF | cornmilf | [28744](https://www.nexusmods.com/cyberpunk2077/mods/28744) |
 | VehicleExitFix | MisterChedda | [22786](https://www.nexusmods.com/cyberpunk2077/mods/22786) |
 
 ### Miscellaneous
@@ -348,11 +370,20 @@ Every entry follows the latest file on Nexus. Grouped by Nexus category.
 | RedFileSystem | Rayshader | [13378](https://www.nexusmods.com/cyberpunk2077/mods/13378) |
 | redscript | jac3km4 | [1511](https://www.nexusmods.com/cyberpunk2077/mods/1511) |
 | ReImagined | robber804 | [25845](https://www.nexusmods.com/cyberpunk2077/mods/25845) |
+| Trigger Mode Control | Seijax | [13077](https://www.nexusmods.com/cyberpunk2077/mods/13077) |
 | TweakXL | psiberx | [4197](https://www.nexusmods.com/cyberpunk2077/mods/4197) |
+| VendorsXL | Deceptious | [19679](https://www.nexusmods.com/cyberpunk2077/mods/19679) |
+| Zenitex Core Dependency | ScorpionTank | [16356](https://www.nexusmods.com/cyberpunk2077/mods/16356) |
+
+### Atelier Shop
+| Mod | Author | Nexus |
+|-----|--------|-------|
+| Zenitex Virtual Atelier | ScorpionTank | [10090](https://www.nexusmods.com/cyberpunk2077/mods/10090) |
 
 ### Weapons
 | Mod | Author | Nexus |
 |-----|--------|-------|
+| Extra Iconics | Seijax | [15889](https://www.nexusmods.com/cyberpunk2077/mods/15889) |
 | Heavy machine guns audio bug fix - HMG overheat missing sound fix - Hm | yakuzadeso | [31792](https://www.nexusmods.com/cyberpunk2077/mods/31792) |
 
 ## ❤️ Support development
