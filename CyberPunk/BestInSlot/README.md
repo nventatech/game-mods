@@ -7,11 +7,11 @@
 Gold TOP tag on the best item of every category across all item screens, sorted to the top of the grid. One key equips the best loadout, another bulk-sells everything without the tag.
 
 ## ✨ Features
-- Gold TOP tag on every best item
-- Green (+) tag on items better than what you have equipped
+- Gold TOP tag and frame on every best item, one TOP per weapon family
+- Green (+) tag on items better than what you have equipped, also on vendor stock and loot
 - TOP items sorted to the top of the grid
 - B in the backpack or inventory - equip best loadout
-- N at vendors - sell non-TOP weapons and clothes
+- N at vendors - sell non-TOP weapons and clothes, 30 per press (selling hundreds of items to one vendor can crash the game; switch vendors)
 - Controller: shoulder + D-pad does the same
 - Rebindable keys and options in the Mod Settings menu (optional dependency)
 - English & PT-BR, following the game language
@@ -21,6 +21,8 @@ Gold TOP tag on the best item of every category across all item screens, sorted 
 ![screenshot](screenshots/03-vendor-bulk-sell.jpg)
 ![screenshot](screenshots/01-inventory-equip-best.jpg)
 ![screenshot](screenshots/04-mod-settings.jpg)
+![screenshot](screenshots/05-backpack-clothes.jpg)
+![screenshot](screenshots/06-quickhacks-top.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
