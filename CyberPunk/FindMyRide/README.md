@@ -7,15 +7,16 @@
 Text search, category tabs and sorting inside the native vehicle call menu (hold V). No extra windows.
 
 ## ✨ Features
-- Text search in the vehicle call menu, by name or manufacturer
-- Category tabs: All / Favorites / Recent / Cars / Motorcycles / Armed, last one remembered
+- Text search in the title bar of the vehicle call menu, by name or manufacturer
+- Category tabs with counts: All / Favorites / Recent / Cars / Motorcycles / Armed, last one remembered
+- Mods tab for cars added by other mods, shown only when you own one
 - Recent tab lists the last 10 vehicles you summoned
 - Hide vehicles you never use with H (Y on gamepad); they move to a Hidden tab
-- Gamepad: D-pad or LB/RB cycle tabs; footer shows real key/button icons
+- Gamepad: D-pad or LB/RB cycle tabs; hints use the real key/button icons, next to the vanilla ones
 - Sort by name, manufacturer or vehicle type; favorites-first toggle
-- Manufacturer, type, year, horsepower and drive layout of the selected vehicle
+- Manufacturer, type, year, horsepower and drive layout under the vehicle picture
 - Same-name paint variants merged into one entry (can be turned off)
-- Panel color: cyan, yellow or red
+- 10 color themes, Vanilla (the game's own colors) by default
 - Hides the vanilla "still in Beta" disclaimer
 - Native UI - no extra windows
 - Options in the Mod Settings menu (optional dependency)
@@ -23,14 +24,14 @@ Text search, category tabs and sorting inside the native vehicle call menu (hold
 
 ## 📸 Screenshots
 ![screenshot](screenshots/01-all.jpg)
-![screenshot](screenshots/04-favorites.jpg)
-![screenshot](screenshots/05-recent.jpg)
 ![screenshot](screenshots/02-cars.jpg)
 ![screenshot](screenshots/03-motorcycles.jpg)
-![screenshot](screenshots/07-armed.jpg)
+![screenshot](screenshots/04-favorites.jpg)
+![screenshot](screenshots/05-recent.jpg)
 ![screenshot](screenshots/06-hidden.jpg)
-![screenshot](screenshots/08-search.jpg)
-![screenshot](screenshots/09-settings.jpg)
+![screenshot](screenshots/07-armed.jpg)
+![screenshot](screenshots/08-mods.jpg)
+![screenshot](screenshots/09-search.jpg)
 
 ## 🌍 Translating
 Texts live in `Localization.reds`. To add a language, copy a package class, translate the
